@@ -1,0 +1,3032 @@
+[
+  {
+    "id": "note-wide-s01-001",
+    "name": "双线奶油长签",
+    "width": 471,
+    "height": 114,
+    "area": {
+      "x": 31,
+      "y": 34,
+      "w": 365,
+      "h": 39
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      21,
+      15,
+      492,
+      129
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-002",
+    "name": "雾蓝分隔长签",
+    "width": 438,
+    "height": 114,
+    "area": {
+      "x": 33,
+      "y": 30,
+      "w": 250,
+      "h": 40
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      508,
+      17,
+      946,
+      131
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-003",
+    "name": "灰褐分隔长签",
+    "width": 470,
+    "height": 115,
+    "area": {
+      "x": 33,
+      "y": 33,
+      "w": 337,
+      "h": 38
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      962,
+      16,
+      1432,
+      131
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-004",
+    "name": "折角横线便签",
+    "width": 215,
+    "height": 187,
+    "area": {
+      "x": 24,
+      "y": 75,
+      "w": 160,
+      "h": 70
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      21,
+      136,
+      236,
+      323
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-005",
+    "name": "奶油圆点清单",
+    "width": 230,
+    "height": 189,
+    "area": {
+      "x": 38,
+      "y": 61,
+      "w": 153,
+      "h": 101
+    },
+    "list": "circle",
+    "ruled": true,
+    "rows": 3,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      244,
+      137,
+      474,
+      326
+    ],
+    "collection": "wide",
+    "checkArea": {
+      "x": 17,
+      "y": 70,
+      "w": 12,
+      "h": 93
+    }
+  },
+  {
+    "id": "note-wide-s01-006",
+    "name": "鼠尾草方格纸",
+    "width": 212,
+    "height": 186,
+    "area": {
+      "x": 25,
+      "y": 66,
+      "w": 153,
+      "h": 88
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      484,
+      138,
+      696,
+      324
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-007",
+    "name": "雾蓝页眉便签",
+    "width": 214,
+    "height": 187,
+    "area": {
+      "x": 26,
+      "y": 51,
+      "w": 157,
+      "h": 99
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      705,
+      141,
+      919,
+      328
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-008",
+    "name": "米色票根",
+    "width": 261,
+    "height": 155,
+    "area": {
+      "x": 56,
+      "y": 30,
+      "w": 140,
+      "h": 91
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      925,
+      144,
+      1186,
+      299
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-009",
+    "name": "炭黑票根",
+    "width": 242,
+    "height": 149,
+    "area": {
+      "x": 32,
+      "y": 31,
+      "w": 166,
+      "h": 76
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      1190,
+      146,
+      1432,
+      295
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-010",
+    "name": "奶油窄标签",
+    "width": 228,
+    "height": 79,
+    "area": {
+      "x": 51,
+      "y": 22,
+      "w": 150,
+      "h": 32
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      21,
+      331,
+      249,
+      410
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-011",
+    "name": "鼠尾草凹口标签",
+    "width": 236,
+    "height": 76,
+    "area": {
+      "x": 21,
+      "y": 18,
+      "w": 174,
+      "h": 33
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      260,
+      334,
+      496,
+      410
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-012",
+    "name": "奶油箭头签",
+    "width": 227,
+    "height": 78,
+    "area": {
+      "x": 25,
+      "y": 19,
+      "w": 159,
+      "h": 33
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      507,
+      334,
+      734,
+      412
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-013",
+    "name": "雾蓝箭头签",
+    "width": 211,
+    "height": 75,
+    "area": {
+      "x": 26,
+      "y": 17,
+      "w": 143,
+      "h": 33
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      745,
+      334,
+      956,
+      409
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-014",
+    "name": "编号吊牌01",
+    "width": 79,
+    "height": 105,
+    "area": {
+      "x": 14,
+      "y": 33,
+      "w": 47,
+      "h": 16
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      970,
+      308,
+      1049,
+      413
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-015",
+    "name": "编号吊牌02",
+    "width": 78,
+    "height": 107,
+    "area": {
+      "x": 17,
+      "y": 32,
+      "w": 44,
+      "h": 16
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      1061,
+      309,
+      1139,
+      416
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-016",
+    "name": "编号吊牌03",
+    "width": 79,
+    "height": 108,
+    "area": {
+      "x": 17,
+      "y": 33,
+      "w": 44,
+      "h": 16
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      1153,
+      308,
+      1232,
+      416
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-017",
+    "name": "编号吊牌04",
+    "width": 82,
+    "height": 107,
+    "area": {
+      "x": 17,
+      "y": 33,
+      "w": 44,
+      "h": 16
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      1246,
+      308,
+      1328,
+      415
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-018",
+    "name": "编号吊牌05",
+    "width": 82,
+    "height": 105,
+    "area": {
+      "x": 17,
+      "y": 34,
+      "w": 44,
+      "h": 16
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      1343,
+      307,
+      1425,
+      412
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-019",
+    "name": "黑线折角框",
+    "width": 273,
+    "height": 137,
+    "area": {
+      "x": 41,
+      "y": 34,
+      "w": 183,
+      "h": 65
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      21,
+      418,
+      294,
+      555
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-020",
+    "name": "灰蓝圆角框",
+    "width": 186,
+    "height": 130,
+    "area": {
+      "x": 31,
+      "y": 31,
+      "w": 123,
+      "h": 67
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      304,
+      421,
+      490,
+      551
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-021",
+    "name": "虚线圆角框",
+    "width": 194,
+    "height": 131,
+    "area": {
+      "x": 28,
+      "y": 28,
+      "w": 132,
+      "h": 69
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      496,
+      420,
+      690,
+      551
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-022",
+    "name": "鼠尾草八角框",
+    "width": 216,
+    "height": 132,
+    "area": {
+      "x": 42,
+      "y": 29,
+      "w": 129,
+      "h": 68
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      698,
+      420,
+      914,
+      552
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-023",
+    "name": "奶油圆形",
+    "width": 127,
+    "height": 128,
+    "area": {
+      "x": 31,
+      "y": 42,
+      "w": 64,
+      "h": 42
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      923,
+      424,
+      1050,
+      552
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-024",
+    "name": "雾蓝圆形",
+    "width": 127,
+    "height": 131,
+    "area": {
+      "x": 32,
+      "y": 43,
+      "w": 64,
+      "h": 42
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      1054,
+      423,
+      1181,
+      554
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-025",
+    "name": "鼠尾草圆形",
+    "width": 127,
+    "height": 130,
+    "area": {
+      "x": 34,
+      "y": 42,
+      "w": 62,
+      "h": 42
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      1182,
+      424,
+      1309,
+      554
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-026",
+    "name": "炭黑圆形",
+    "width": 120,
+    "height": 123,
+    "area": {
+      "x": 31,
+      "y": 39,
+      "w": 60,
+      "h": 42
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      1311,
+      427,
+      1431,
+      550
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-027",
+    "name": "奶油撕边便签",
+    "width": 279,
+    "height": 220,
+    "area": {
+      "x": 28,
+      "y": 63,
+      "w": 218,
+      "h": 103
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      21,
+      559,
+      300,
+      779
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-028",
+    "name": "雾蓝拍立得纸",
+    "width": 213,
+    "height": 251,
+    "area": {
+      "x": 31,
+      "y": 37,
+      "w": 145,
+      "h": 139
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      310,
+      557,
+      523,
+      808
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-029",
+    "name": "奶油折角方格纸",
+    "width": 198,
+    "height": 234,
+    "area": {
+      "x": 25,
+      "y": 32,
+      "w": 136,
+      "h": 164
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      534,
+      558,
+      732,
+      792
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-030",
+    "name": "圆孔文件纸",
+    "width": 288,
+    "height": 227,
+    "area": {
+      "x": 32,
+      "y": 66,
+      "w": 222,
+      "h": 129
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      743,
+      558,
+      1031,
+      785
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-031",
+    "name": "鼠尾草拱门纸",
+    "width": 216,
+    "height": 230,
+    "area": {
+      "x": 40,
+      "y": 78,
+      "w": 130,
+      "h": 121
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      1041,
+      555,
+      1257,
+      785
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-032",
+    "name": "奶油圆孔拱门纸",
+    "width": 164,
+    "height": 225,
+    "area": {
+      "x": 27,
+      "y": 89,
+      "w": 106,
+      "h": 86
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      1268,
+      561,
+      1432,
+      786
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-033",
+    "name": "雾蓝对话框",
+    "width": 225,
+    "height": 128,
+    "area": {
+      "x": 31,
+      "y": 27,
+      "w": 161,
+      "h": 51
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      21,
+      797,
+      246,
+      925
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-034",
+    "name": "奶油圆角对话框",
+    "width": 315,
+    "height": 109,
+    "area": {
+      "x": 37,
+      "y": 26,
+      "w": 219,
+      "h": 39
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      254,
+      815,
+      569,
+      924
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-035",
+    "name": "黑框对话框",
+    "width": 237,
+    "height": 130,
+    "area": {
+      "x": 30,
+      "y": 31,
+      "w": 175,
+      "h": 46
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      580,
+      800,
+      817,
+      930
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-036",
+    "name": "米色宽票根",
+    "width": 325,
+    "height": 132,
+    "area": {
+      "x": 82,
+      "y": 29,
+      "w": 208,
+      "h": 70
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      838,
+      793,
+      1163,
+      925
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-037",
+    "name": "雾蓝宽票根",
+    "width": 246,
+    "height": 130,
+    "area": {
+      "x": 46,
+      "y": 30,
+      "w": 139,
+      "h": 66
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      1184,
+      795,
+      1430,
+      925
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-038",
+    "name": "鼠尾草圆点长签",
+    "width": 391,
+    "height": 98,
+    "area": {
+      "x": 104,
+      "y": 26,
+      "w": 242,
+      "h": 37
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      18,
+      936,
+      409,
+      1034
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-039",
+    "name": "米色双尖长签",
+    "width": 308,
+    "height": 93,
+    "area": {
+      "x": 66,
+      "y": 29,
+      "w": 181,
+      "h": 35
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      417,
+      936,
+      725,
+      1029
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-040",
+    "name": "雾蓝分隔圆角签",
+    "width": 352,
+    "height": 95,
+    "area": {
+      "x": 42,
+      "y": 28,
+      "w": 220,
+      "h": 35
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      735,
+      939,
+      1087,
+      1034
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s01-041",
+    "name": "炭黑色块长签",
+    "width": 343,
+    "height": 100,
+    "area": {
+      "x": 114,
+      "y": 32,
+      "w": 193,
+      "h": 35
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+    "sourceSha256": "56669dfa793c575235ed5d1eef5559a16f4a73971706cb5dade2209576ca2d9f",
+    "sourceBox": [
+      1090,
+      933,
+      1433,
+      1033
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-001",
+    "name": "冰蓝星光对话框",
+    "width": 352,
+    "height": 169,
+    "area": {
+      "x": 65,
+      "y": 46,
+      "w": 213,
+      "h": 64
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      15,
+      18,
+      367,
+      187
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-002",
+    "name": "紫色爱心对话框",
+    "width": 316,
+    "height": 183,
+    "area": {
+      "x": 62,
+      "y": 71,
+      "w": 202,
+      "h": 52
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      374,
+      7,
+      690,
+      190
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-003",
+    "name": "虹彩云朵",
+    "width": 327,
+    "height": 184,
+    "area": {
+      "x": 56,
+      "y": 78,
+      "w": 190,
+      "h": 47
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      696,
+      6,
+      1023,
+      190
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-004",
+    "name": "粉色玻璃窗口",
+    "width": 401,
+    "height": 159,
+    "area": {
+      "x": 41,
+      "y": 74,
+      "w": 269,
+      "h": 48
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      1030,
+      14,
+      1431,
+      173
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-005",
+    "name": "粉色玻璃爱心",
+    "width": 200,
+    "height": 162,
+    "area": {
+      "x": 55,
+      "y": 60,
+      "w": 80,
+      "h": 41
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      11,
+      196,
+      211,
+      358
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-006",
+    "name": "冰蓝行星",
+    "width": 351,
+    "height": 163,
+    "area": {
+      "x": 66,
+      "y": 47,
+      "w": 187,
+      "h": 54
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      206,
+      193,
+      557,
+      356
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-007",
+    "name": "虹彩爆炸框",
+    "width": 265,
+    "height": 193,
+    "area": {
+      "x": 73,
+      "y": 81,
+      "w": 111,
+      "h": 40
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      538,
+      171,
+      803,
+      364
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-008",
+    "name": "粉紫波浪星框",
+    "width": 342,
+    "height": 182,
+    "area": {
+      "x": 47,
+      "y": 69,
+      "w": 201,
+      "h": 64
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      810,
+      180,
+      1152,
+      362
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-009",
+    "name": "虹彩吊牌",
+    "width": 286,
+    "height": 167,
+    "area": {
+      "x": 61,
+      "y": 60,
+      "w": 154,
+      "h": 45
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      1149,
+      187,
+      1435,
+      354
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-010",
+    "name": "蓝紫星星长签",
+    "width": 393,
+    "height": 135,
+    "area": {
+      "x": 129,
+      "y": 54,
+      "w": 211,
+      "h": 43
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      14,
+      355,
+      407,
+      490
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-011",
+    "name": "紫色爱心长签",
+    "width": 278,
+    "height": 137,
+    "area": {
+      "x": 39,
+      "y": 46,
+      "w": 174,
+      "h": 34
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      418,
+      361,
+      696,
+      498
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-012",
+    "name": "虹彩金属铭牌",
+    "width": 396,
+    "height": 147,
+    "area": {
+      "x": 90,
+      "y": 53,
+      "w": 214,
+      "h": 48
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      705,
+      365,
+      1101,
+      512
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-013",
+    "name": "冰蓝星光云朵",
+    "width": 325,
+    "height": 155,
+    "area": {
+      "x": 69,
+      "y": 48,
+      "w": 175,
+      "h": 58
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      1111,
+      356,
+      1436,
+      511
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-014",
+    "name": "虹彩浏览器便签",
+    "width": 265,
+    "height": 180,
+    "area": {
+      "x": 32,
+      "y": 67,
+      "w": 173,
+      "h": 69
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      17,
+      501,
+      282,
+      681
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-015",
+    "name": "虹彩文件夹",
+    "width": 274,
+    "height": 176,
+    "area": {
+      "x": 45,
+      "y": 60,
+      "w": 157,
+      "h": 66
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      295,
+      505,
+      569,
+      681
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-016",
+    "name": "粉色环绕行星",
+    "width": 341,
+    "height": 165,
+    "area": {
+      "x": 76,
+      "y": 47,
+      "w": 140,
+      "h": 54
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      571,
+      517,
+      912,
+      682
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-017",
+    "name": "冰蓝双箭头签",
+    "width": 348,
+    "height": 130,
+    "area": {
+      "x": 45,
+      "y": 39,
+      "w": 171,
+      "h": 49
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      920,
+      523,
+      1268,
+      653
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-018",
+    "name": "冰蓝竖向行星",
+    "width": 190,
+    "height": 196,
+    "area": {
+      "x": 58,
+      "y": 41,
+      "w": 72,
+      "h": 64
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      1248,
+      500,
+      1438,
+      696
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-019",
+    "name": "回形针星光便签",
+    "width": 340,
+    "height": 188,
+    "area": {
+      "x": 63,
+      "y": 56,
+      "w": 205,
+      "h": 91
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      18,
+      683,
+      358,
+      871
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-020",
+    "name": "虹彩波浪框",
+    "width": 374,
+    "height": 171,
+    "area": {
+      "x": 81,
+      "y": 49,
+      "w": 205,
+      "h": 64
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      368,
+      695,
+      742,
+      866
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-021",
+    "name": "虹彩方格吊牌",
+    "width": 284,
+    "height": 159,
+    "area": {
+      "x": 48,
+      "y": 36,
+      "w": 169,
+      "h": 80
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      751,
+      696,
+      1035,
+      855
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-022",
+    "name": "粉紫玻璃星星",
+    "width": 195,
+    "height": 194,
+    "area": {
+      "x": 58,
+      "y": 85,
+      "w": 78,
+      "h": 49
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      1039,
+      661,
+      1234,
+      855
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-023",
+    "name": "冰蓝圆形行星",
+    "width": 222,
+    "height": 185,
+    "area": {
+      "x": 63,
+      "y": 54,
+      "w": 84,
+      "h": 39
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      1221,
+      704,
+      1443,
+      889
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-024",
+    "name": "爱心玻璃长签",
+    "width": 352,
+    "height": 131,
+    "area": {
+      "x": 47,
+      "y": 35,
+      "w": 250,
+      "h": 30
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      18,
+      884,
+      370,
+      1015
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-025",
+    "name": "星光螺旋长签",
+    "width": 352,
+    "height": 139,
+    "area": {
+      "x": 88,
+      "y": 54,
+      "w": 195,
+      "h": 47
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      382,
+      878,
+      734,
+      1017
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-026",
+    "name": "冰蓝标签窗口",
+    "width": 281,
+    "height": 158,
+    "area": {
+      "x": 42,
+      "y": 61,
+      "w": 184,
+      "h": 50
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      747,
+      873,
+      1028,
+      1031
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s02-027",
+    "name": "粉色星光椭圆",
+    "width": 383,
+    "height": 145,
+    "area": {
+      "x": 80,
+      "y": 50,
+      "w": 204,
+      "h": 48
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+    "sourceSha256": "839c118681225a44ef313332d5900668ab262abe184b3fc941b12fdcdd8ecc09",
+    "sourceBox": [
+      1041,
+      882,
+      1424,
+      1027
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-001",
+    "name": "复古编号票券",
+    "width": 287,
+    "height": 145,
+    "area": {
+      "x": 76,
+      "y": 34,
+      "w": 132,
+      "h": 66
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      14,
+      14,
+      301,
+      159
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-002",
+    "name": "珊瑚双线票券",
+    "width": 281,
+    "height": 145,
+    "area": {
+      "x": 49,
+      "y": 37,
+      "w": 174,
+      "h": 65
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      303,
+      13,
+      584,
+      158
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-003",
+    "name": "橄榄编号票券",
+    "width": 288,
+    "height": 145,
+    "area": {
+      "x": 52,
+      "y": 37,
+      "w": 135,
+      "h": 65
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      589,
+      13,
+      877,
+      158
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-004",
+    "name": "飞机邮戳明信片",
+    "width": 295,
+    "height": 148,
+    "area": {
+      "x": 34,
+      "y": 83,
+      "w": 164,
+      "h": 39
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      886,
+      13,
+      1181,
+      161
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-005",
+    "name": "红框凹口票券",
+    "width": 251,
+    "height": 149,
+    "area": {
+      "x": 57,
+      "y": 35,
+      "w": 134,
+      "h": 72
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      1189,
+      12,
+      1440,
+      161
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-006",
+    "name": "麻绳牛皮吊牌",
+    "width": 173,
+    "height": 234,
+    "area": {
+      "x": 24,
+      "y": 110,
+      "w": 104,
+      "h": 84
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      17,
+      155,
+      190,
+      389
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-007",
+    "name": "麻绳横线吊牌",
+    "width": 174,
+    "height": 226,
+    "area": {
+      "x": 56,
+      "y": 105,
+      "w": 101,
+      "h": 91
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      175,
+      162,
+      349,
+      388
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-008",
+    "name": "珊瑚植物吊牌",
+    "width": 153,
+    "height": 222,
+    "area": {
+      "x": 21,
+      "y": 68,
+      "w": 61,
+      "h": 109
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      366,
+      162,
+      519,
+      384
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-009",
+    "name": "牛仔蓝吊牌",
+    "width": 158,
+    "height": 228,
+    "area": {
+      "x": 24,
+      "y": 66,
+      "w": 106,
+      "h": 125
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      535,
+      166,
+      693,
+      394
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-010",
+    "name": "花朵邮票",
+    "width": 168,
+    "height": 200,
+    "area": {
+      "x": 30,
+      "y": 31,
+      "w": 40,
+      "h": 56
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      707,
+      183,
+      875,
+      383
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-011",
+    "name": "山水邮票",
+    "width": 173,
+    "height": 206,
+    "area": {
+      "x": 32,
+      "y": 32,
+      "w": 105,
+      "h": 32
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      893,
+      175,
+      1066,
+      381
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-012",
+    "name": "橄榄装饰邮票",
+    "width": 180,
+    "height": 207,
+    "area": {
+      "x": 35,
+      "y": 51,
+      "w": 105,
+      "h": 112
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      1075,
+      175,
+      1255,
+      382
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-013",
+    "name": "珊瑚花卉邮票",
+    "width": 171,
+    "height": 207,
+    "area": {
+      "x": 29,
+      "y": 35,
+      "w": 70,
+      "h": 22
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      1265,
+      175,
+      1436,
+      382
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-014",
+    "name": "邮戳明信片",
+    "width": 310,
+    "height": 170,
+    "area": {
+      "x": 27,
+      "y": 70,
+      "w": 116,
+      "h": 66
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      15,
+      399,
+      325,
+      569
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-015",
+    "name": "航空信封",
+    "width": 295,
+    "height": 170,
+    "area": {
+      "x": 99,
+      "y": 40,
+      "w": 155,
+      "h": 81
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      331,
+      398,
+      626,
+      568
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-016",
+    "name": "花朵复古标签",
+    "width": 252,
+    "height": 141,
+    "area": {
+      "x": 86,
+      "y": 37,
+      "w": 124,
+      "h": 65
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      636,
+      408,
+      888,
+      549
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-017",
+    "name": "撕边横线笔记",
+    "width": 289,
+    "height": 168,
+    "area": {
+      "x": 70,
+      "y": 43,
+      "w": 174,
+      "h": 92
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      901,
+      395,
+      1190,
+      563
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-018",
+    "name": "牛仔蓝八角框",
+    "width": 240,
+    "height": 151,
+    "area": {
+      "x": 46,
+      "y": 35,
+      "w": 148,
+      "h": 77
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      1199,
+      395,
+      1439,
+      546
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-019",
+    "name": "复古账本长纸",
+    "width": 163,
+    "height": 277,
+    "area": {
+      "x": 71,
+      "y": 86,
+      "w": 65,
+      "h": 152
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      17,
+      572,
+      180,
+      849
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-020",
+    "name": "牛皮圆孔编号签",
+    "width": 302,
+    "height": 111,
+    "area": {
+      "x": 102,
+      "y": 75,
+      "w": 148,
+      "h": 15
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      184,
+      580,
+      486,
+      691
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-021",
+    "name": "牛皮撕边方格纸",
+    "width": 272,
+    "height": 133,
+    "area": {
+      "x": 26,
+      "y": 24,
+      "w": 211,
+      "h": 83
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      493,
+      573,
+      765,
+      706
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-022",
+    "name": "牛皮编号小签",
+    "width": 204,
+    "height": 106,
+    "area": {
+      "x": 70,
+      "y": 35,
+      "w": 84,
+      "h": 22
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      769,
+      583,
+      973,
+      689
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-023",
+    "name": "橄榄植物双联票",
+    "width": 219,
+    "height": 118,
+    "area": {
+      "x": 22,
+      "y": 28,
+      "w": 58,
+      "h": 62
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      980,
+      573,
+      1199,
+      691
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-024",
+    "name": "牛皮双线八角框",
+    "width": 233,
+    "height": 140,
+    "area": {
+      "x": 44,
+      "y": 37,
+      "w": 140,
+      "h": 67
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      1206,
+      558,
+      1439,
+      698
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-025",
+    "name": "牛仔蓝三星票",
+    "width": 217,
+    "height": 147,
+    "area": {
+      "x": 49,
+      "y": 38,
+      "w": 118,
+      "h": 52
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      187,
+      702,
+      404,
+      849
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-026",
+    "name": "GOOD FOR星星票",
+    "width": 247,
+    "height": 148,
+    "area": {
+      "x": 37,
+      "y": 53,
+      "w": 164,
+      "h": 37
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      416,
+      711,
+      663,
+      859
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-027",
+    "name": "红框打孔票",
+    "width": 250,
+    "height": 149,
+    "area": {
+      "x": 42,
+      "y": 43,
+      "w": 129,
+      "h": 66
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      674,
+      710,
+      924,
+      859
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-028",
+    "name": "编号72403票",
+    "width": 252,
+    "height": 142,
+    "area": {
+      "x": 45,
+      "y": 35,
+      "w": 120,
+      "h": 63
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      926,
+      712,
+      1178,
+      854
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-029",
+    "name": "珊瑚花边椭圆",
+    "width": 247,
+    "height": 177,
+    "area": {
+      "x": 58,
+      "y": 52,
+      "w": 139,
+      "h": 75
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      1191,
+      695,
+      1438,
+      872
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-030",
+    "name": "回形针横线纸",
+    "width": 257,
+    "height": 214,
+    "area": {
+      "x": 53,
+      "y": 58,
+      "w": 164,
+      "h": 108
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      17,
+      848,
+      274,
+      1062
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-031",
+    "name": "地球邮政标签",
+    "width": 302,
+    "height": 139,
+    "area": {
+      "x": 140,
+      "y": 36,
+      "w": 122,
+      "h": 24
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      274,
+      882,
+      576,
+      1021
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-032",
+    "name": "胶带复古叠纸",
+    "width": 280,
+    "height": 194,
+    "area": {
+      "x": 43,
+      "y": 61,
+      "w": 173,
+      "h": 61
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      581,
+      864,
+      861,
+      1058
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-033",
+    "name": "星星撕边票",
+    "width": 294,
+    "height": 174,
+    "area": {
+      "x": 84,
+      "y": 38,
+      "w": 142,
+      "h": 96
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      865,
+      869,
+      1159,
+      1043
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s03-034",
+    "name": "复古圆形邮戳纸",
+    "width": 265,
+    "height": 183,
+    "area": {
+      "x": 133,
+      "y": 34,
+      "w": 98,
+      "h": 30
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+    "sourceSha256": "86b0cb4d849fdbee55f35500329ace3e0a624992b9dcb5f3707ec441e73b0b43",
+    "sourceBox": [
+      1171,
+      871,
+      1436,
+      1054
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-001",
+    "name": "白花胶带撕纸",
+    "width": 291,
+    "height": 223,
+    "area": {
+      "x": 111,
+      "y": 57,
+      "w": 140,
+      "h": 97
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      11,
+      7,
+      302,
+      230
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-002",
+    "name": "粉花撕边纸",
+    "width": 261,
+    "height": 222,
+    "area": {
+      "x": 33,
+      "y": 59,
+      "w": 127,
+      "h": 118
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      309,
+      8,
+      570,
+      230
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-003",
+    "name": "花园圆形花环",
+    "width": 320,
+    "height": 228,
+    "area": {
+      "x": 74,
+      "y": 75,
+      "w": 159,
+      "h": 77
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      576,
+      6,
+      896,
+      234
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-004",
+    "name": "月夜云朵",
+    "width": 326,
+    "height": 210,
+    "area": {
+      "x": 81,
+      "y": 104,
+      "w": 166,
+      "h": 51
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      903,
+      6,
+      1229,
+      216
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-005",
+    "name": "薰衣草山景邮票",
+    "width": 200,
+    "height": 235,
+    "area": {
+      "x": 31,
+      "y": 82,
+      "w": 92,
+      "h": 42
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      1238,
+      7,
+      1438,
+      242
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-006",
+    "name": "薰衣草吊牌",
+    "width": 152,
+    "height": 231,
+    "area": {
+      "x": 86,
+      "y": 64,
+      "w": 44,
+      "h": 99
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      9,
+      227,
+      161,
+      458
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-007",
+    "name": "铃兰绿框长签",
+    "width": 348,
+    "height": 186,
+    "area": {
+      "x": 158,
+      "y": 43,
+      "w": 139,
+      "h": 98
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      174,
+      238,
+      522,
+      424
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-008",
+    "name": "雏菊回形针横线纸",
+    "width": 356,
+    "height": 189,
+    "area": {
+      "x": 46,
+      "y": 68,
+      "w": 204,
+      "h": 69
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      533,
+      222,
+      889,
+      411
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-009",
+    "name": "粉色卷轴缎带",
+    "width": 334,
+    "height": 122,
+    "area": {
+      "x": 75,
+      "y": 41,
+      "w": 174,
+      "h": 42
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      900,
+      212,
+      1234,
+      334
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-010",
+    "name": "勿忘我蓝框标签",
+    "width": 210,
+    "height": 142,
+    "area": {
+      "x": 32,
+      "y": 36,
+      "w": 115,
+      "h": 63
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      1232,
+      248,
+      1442,
+      390
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-011",
+    "name": "勿忘我云朵纸",
+    "width": 353,
+    "height": 192,
+    "area": {
+      "x": 114,
+      "y": 53,
+      "w": 165,
+      "h": 82
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      9,
+      441,
+      362,
+      633
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-012",
+    "name": "蝴蝶虚线票",
+    "width": 243,
+    "height": 123,
+    "area": {
+      "x": 37,
+      "y": 34,
+      "w": 109,
+      "h": 57
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      371,
+      431,
+      614,
+      554
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-013",
+    "name": "勿忘我椭圆",
+    "width": 310,
+    "height": 212,
+    "area": {
+      "x": 81,
+      "y": 59,
+      "w": 136,
+      "h": 77
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      630,
+      407,
+      940,
+      619
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-014",
+    "name": "蝴蝶结心形花纸",
+    "width": 305,
+    "height": 265,
+    "area": {
+      "x": 118,
+      "y": 93,
+      "w": 103,
+      "h": 84
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      933,
+      335,
+      1238,
+      600
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-015",
+    "name": "郁金香邮戳邮票",
+    "width": 209,
+    "height": 194,
+    "area": {
+      "x": 56,
+      "y": 43,
+      "w": 64,
+      "h": 72
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      1221,
+      396,
+      1430,
+      590
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-016",
+    "name": "绿叶拼贴撕纸",
+    "width": 350,
+    "height": 163,
+    "area": {
+      "x": 118,
+      "y": 32,
+      "w": 183,
+      "h": 57
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      3,
+      632,
+      353,
+      795
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-017",
+    "name": "薰衣草蝴蝶结圆签",
+    "width": 231,
+    "height": 250,
+    "area": {
+      "x": 96,
+      "y": 60,
+      "w": 73,
+      "h": 87
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      355,
+      562,
+      586,
+      812
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-018",
+    "name": "白花蜡封长签",
+    "width": 319,
+    "height": 187,
+    "area": {
+      "x": 129,
+      "y": 50,
+      "w": 132,
+      "h": 75
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      585,
+      603,
+      904,
+      790
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-019",
+    "name": "常春藤小屋",
+    "width": 192,
+    "height": 216,
+    "area": {
+      "x": 58,
+      "y": 109,
+      "w": 99,
+      "h": 46
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      914,
+      572,
+      1106,
+      788
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-020",
+    "name": "绿叶图钉蓝纸",
+    "width": 332,
+    "height": 195,
+    "area": {
+      "x": 37,
+      "y": 61,
+      "w": 194,
+      "h": 66
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      1114,
+      590,
+      1446,
+      785
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-021",
+    "name": "金合欢拼贴信纸",
+    "width": 397,
+    "height": 259,
+    "area": {
+      "x": 147,
+      "y": 84,
+      "w": 163,
+      "h": 108
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      9,
+      800,
+      406,
+      1059
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-022",
+    "name": "绿叶星光曲线框",
+    "width": 325,
+    "height": 266,
+    "area": {
+      "x": 106,
+      "y": 76,
+      "w": 153,
+      "h": 117
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      422,
+      791,
+      747,
+      1057
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-023",
+    "name": "白花撕边活页纸",
+    "width": 269,
+    "height": 275,
+    "area": {
+      "x": 28,
+      "y": 46,
+      "w": 119,
+      "h": 171
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      751,
+      791,
+      1020,
+      1066
+    ],
+    "collection": "wide"
+  },
+  {
+    "id": "note-wide-s04-024",
+    "name": "薰衣草复古装饰框",
+    "width": 415,
+    "height": 270,
+    "area": {
+      "x": 111,
+      "y": 65,
+      "w": 202,
+      "h": 142
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+    "sourceSha256": "55050ddff59ce5be04da4ef0139db89092d02e18835ea15b857dfba978d3a61b",
+    "sourceBox": [
+      1028,
+      788,
+      1443,
+      1058
+    ],
+    "collection": "wide"
+  }
+]

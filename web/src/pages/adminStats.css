@@ -1,0 +1,53 @@
+.stats-page { height: 100dvh; overflow: auto; color: #413d35; background: #f4f2ec; font-family: var(--font-sans); }
+.stats-header { min-height: 78px; padding: 18px clamp(20px, 5vw, 76px); display: flex; align-items: center; justify-content: space-between; gap: 20px; border-bottom: 1px solid #e2e1d6; background: #faf9f4; }
+.stats-brand { display: flex; align-items: center; gap: 11px; font-family: Georgia, serif; font-size: 24px; }
+.stats-brand small { margin-left: 14px; padding-left: 14px; border-left: 1px solid #dadcd0; font: 12px var(--font-sans); color: #7b806f; }
+.stats-header-actions { display: flex; align-items: center; gap: 23px; }
+.stats-header-actions a, .stats-header-actions button { display: inline-flex; align-items: center; gap: 7px; color: #777c6d; font-size: 12px; cursor: pointer; }
+.stats-header-actions a:hover, .stats-header-actions button:hover { color: #3b543b; }
+.stats-main { max-width: 1320px; margin: 0 auto; padding: 45px clamp(20px, 4vw, 60px) 56px; }
+.stats-heading { display: flex; justify-content: space-between; align-items: center; gap: 18px; }
+.stats-eyebrow { font-size: 10px; letter-spacing: .2em; color: #7b876f; margin-bottom: 10px; }
+.stats-heading h1 { font-family: 'Songti SC', SimSun, Georgia, serif; font-size: 34px; letter-spacing: .06em; line-height: 1.3; }
+.stats-heading > div > p:last-child { color: #898477; font-size: 13px; margin-top: 10px; }
+.stats-refresh { display: inline-flex; align-items: center; justify-content: center; gap: 8px; background: #fdfcf7; border: 1px solid #cfd5c6; padding: 10px 15px; border-radius: 5px; font-size: 12px; color: #56694f; cursor: pointer; white-space: nowrap; }
+.stats-refresh:disabled { opacity: .6; cursor: wait; }
+.stats-context { margin: 27px 0 15px; display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; font-size: 11px; color: #8b877b; }
+.stats-cards { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px; margin-bottom: 24px; }
+.stats-card { padding: 22px; background: #fcfbf6; border: 1px solid #e0e1d5; border-radius: 8px; }
+.stats-card-label { display: flex; align-items: center; justify-content: space-between; gap: 8px; color: #7b8772; }
+.stats-card h2 { font-size: 12px; font-weight: 500; color: #726f63; }
+.stats-value { font-size: 35px; line-height: 1.3; margin: 17px 0 9px; color: #404e3b; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+.stats-card-hint { font-size: 10px; color: #969083; }
+.stats-panel { border: 1px solid #dfe0d4; border-radius: 9px; background: #fcfbf6; margin-top: 24px; overflow: hidden; }
+.stats-panel-heading { padding: 25px 27px 18px; display: flex; justify-content: space-between; gap: 15px; align-items: center; }
+.stats-panel-heading h2 { font-size: 16px; font-weight: 600; color: #4e5747; }
+.stats-panel-heading p { font-size: 11px; color: #918b7f; margin-top: 6px; }
+.stats-period { font-size: 10px; letter-spacing: .05em; color: #858d79; }
+.stats-tabs { display: flex; gap: 5px; padding: 0 25px 6px; flex-wrap: wrap; }
+.stats-tabs button { border: 1px solid transparent; padding: 7px 12px; color: #8b877b; font-size: 12px; border-radius: 5px; cursor: pointer; }
+.stats-tabs button[aria-pressed=true] { background: #eaf0e2; color: #52684a; border-color: #dbe4d0; }
+.stats-chart { display: block; width: 100%; padding: 10px 18px 0; min-height: 170px; }
+.stats-chart text { font: 11px var(--font-sans); fill: #999286; }
+.stats-chart-note { padding: 0 27px 22px; font-size: 11px; line-height: 1.8; color: #999083; }
+.stats-table-scroll { overflow-x: auto; }
+.stats-table { width: 100%; min-width: 660px; border-collapse: collapse; font-size: 12px; font-variant-numeric: tabular-nums; }
+.stats-table th, .stats-table td { padding: 14px 20px; text-align: right; white-space: nowrap; border-top: 1px solid #e9e7de; }
+.stats-table thead { color: #898574; background: #f6f5ed; }
+.stats-table th { font-weight: 500; }
+.stats-table th:first-child { text-align: left; padding-left: 27px; }
+.stats-table tbody th { color: #777566; }
+.stats-table td { color: #555e4e; }
+.stats-table small { margin-left: 8px; font-size: 10px; color: #829071; }
+.stats-table tbody tr:hover { background: #f7f8ee; }
+.stats-notes { padding: 27px 3px 0; color: #969082; font-size: 11px; line-height: 1.9; }
+.stats-notes h2 { font-size: 12px; color: #7c806f; margin-bottom: 7px; }
+.stats-notes p + p { margin-top: 5px; }
+.stats-state { min-height: 60vh; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 18px; color: #7b806e; }
+.stats-state h1 { font-size: 24px; }
+.stats-state p { text-align: center; }
+.stats-page button:focus-visible, .stats-page a:focus-visible { outline: 2px solid #718a64; outline-offset: 4px; }
+@media (min-width: 1100px) { .stats-card:last-child { grid-column: span 2; } }
+@media (max-width: 800px) { .stats-cards { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; } .stats-card:last-child { grid-column: span 2; } .stats-main { padding-top: 30px; } .stats-heading h1 { font-size: 28px; } }
+@media (min-width: 801px) and (max-width: 1099px) { .stats-cards { grid-template-columns: repeat(3, minmax(0, 1fr)); } .stats-card:last-child { grid-column: span 3; } }
+@media (max-width: 480px) { .stats-header { min-height: 65px; padding: 14px 18px; gap: 12px; } .stats-brand { gap: 7px; font-size: 20px; } .stats-brand small { display: none; } .stats-header-actions { gap: 12px; } .stats-header-actions a, .stats-header-actions button { font-size: 11px; gap: 4px; } .stats-card { padding: 17px; } .stats-value { font-size: 30px; } .stats-panel-heading { padding: 20px 18px 15px; } .stats-tabs { padding-inline: 14px; gap: 2px; } .stats-tabs button { padding: 7px 10px; font-size: 11px; } .stats-chart { padding-inline: 0; } .stats-chart-note { padding: 0 18px 18px; } .stats-period { display: none; } .stats-heading > div > p:last-child { font-size: 11px; max-width: 180px; line-height: 1.8; } }

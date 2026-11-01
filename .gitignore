@@ -1,0 +1,12 @@
+node_modules/
+dist/
+server/data/
+.npm-cache/
+.npmrc
+*.log
+.DS_Store
+.env
+.env.oss
+.vite-cache/
+.playwright-mcp/
+__pycache__/

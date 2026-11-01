@@ -1,0 +1,842 @@
+[
+  {
+    "id": "note-01",
+    "name": "今日便签",
+    "width": 225,
+    "height": 231,
+    "area": {
+      "x": 36,
+      "y": 102,
+      "w": 133,
+      "h": 92
+    },
+    "stripY": 116,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "sourceBox": [
+      15,
+      0,
+      240,
+      231
+    ]
+  },
+  {
+    "id": "note-02",
+    "name": "星月云朵",
+    "width": 280,
+    "height": 205,
+    "area": {
+      "x": 56,
+      "y": 90,
+      "w": 168,
+      "h": 68
+    },
+    "stripY": 116,
+    "stripHeight": 10,
+    "fixedArt": false,
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "sourceBox": [
+      243,
+      18,
+      523,
+      223
+    ]
+  },
+  {
+    "id": "note-03",
+    "name": "粉色蝴蝶结",
+    "width": 240,
+    "height": 200,
+    "area": {
+      "x": 46,
+      "y": 84,
+      "w": 151,
+      "h": 84
+    },
+    "stripY": 115,
+    "stripHeight": 10,
+    "fixedArt": false,
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "sourceBox": [
+      528,
+      20,
+      768,
+      220
+    ]
+  },
+  {
+    "id": "note-04",
+    "name": "绿叶对话框",
+    "width": 225,
+    "height": 183,
+    "area": {
+      "x": 40,
+      "y": 51,
+      "w": 130,
+      "h": 73
+    },
+    "stripY": 65,
+    "stripHeight": 10,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      773,
+      25,
+      998,
+      208
+    ]
+  },
+  {
+    "id": "note-05",
+    "name": "花朵备注",
+    "width": 239,
+    "height": 223,
+    "area": {
+      "x": 41,
+      "y": 96,
+      "w": 143,
+      "h": 96
+    },
+    "stripY": 114,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "sourceBox": [
+      1003,
+      12,
+      1242,
+      235
+    ]
+  },
+  {
+    "id": "note-06",
+    "name": "薰衣草长标签",
+    "width": 288,
+    "height": 127,
+    "area": {
+      "x": 72,
+      "y": 34,
+      "w": 164,
+      "h": 58
+    },
+    "stripY": 30,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      4,
+      237,
+      292,
+      364
+    ]
+  },
+  {
+    "id": "note-07",
+    "name": "心形蝴蝶结",
+    "width": 195,
+    "height": 155,
+    "area": {
+      "x": 55,
+      "y": 57,
+      "w": 94,
+      "h": 57
+    },
+    "stripY": 83,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      293,
+      228,
+      488,
+      383
+    ]
+  },
+  {
+    "id": "note-08",
+    "name": "雾蓝缎带",
+    "width": 273,
+    "height": 112,
+    "area": {
+      "x": 44,
+      "y": 32,
+      "w": 186,
+      "h": 45
+    },
+    "stripY": 52,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      489,
+      240,
+      762,
+      352
+    ]
+  },
+  {
+    "id": "note-09",
+    "name": "花园云朵",
+    "width": 238,
+    "height": 169,
+    "area": {
+      "x": 55,
+      "y": 49,
+      "w": 121,
+      "h": 73
+    },
+    "stripY": 82,
+    "stripHeight": 12,
+    "fixedArt": true,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      766,
+      212,
+      1004,
+      381
+    ]
+  },
+  {
+    "id": "note-10",
+    "name": "橄榄叶椭圆",
+    "width": 237,
+    "height": 127,
+    "area": {
+      "x": 45,
+      "y": 36,
+      "w": 137,
+      "h": 55
+    },
+    "stripY": 45,
+    "stripHeight": 10,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      1006,
+      242,
+      1243,
+      369
+    ]
+  },
+  {
+    "id": "note-11",
+    "name": "待办清单",
+    "width": 226,
+    "height": 222,
+    "area": {
+      "x": 70,
+      "y": 80,
+      "w": 106,
+      "h": 95
+    },
+    "stripY": 76,
+    "stripHeight": 6,
+    "fixedArt": false,
+    "list": "square",
+    "ruled": true,
+    "rows": 3,
+    "sourceBox": [
+      15,
+      370,
+      241,
+      592
+    ]
+  },
+  {
+    "id": "note-12",
+    "name": "绿叶邮票",
+    "width": 271,
+    "height": 188,
+    "area": {
+      "x": 73,
+      "y": 53,
+      "w": 130,
+      "h": 85
+    },
+    "stripY": 90,
+    "stripHeight": 2,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      249,
+      386,
+      520,
+      574
+    ]
+  },
+  {
+    "id": "note-13",
+    "name": "粉色票根",
+    "width": 279,
+    "height": 166,
+    "area": {
+      "x": 64,
+      "y": 48,
+      "w": 151,
+      "h": 71
+    },
+    "stripY": 60,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      522,
+      397,
+      801,
+      563
+    ]
+  },
+  {
+    "id": "note-14",
+    "name": "计划清单",
+    "width": 231,
+    "height": 203,
+    "area": {
+      "x": 62,
+      "y": 75,
+      "w": 127,
+      "h": 91
+    },
+    "stripY": 80,
+    "stripHeight": 10,
+    "fixedArt": false,
+    "list": "circle",
+    "ruled": true,
+    "rows": 3,
+    "sourceBox": [
+      797,
+      377,
+      1028,
+      580
+    ]
+  },
+  {
+    "id": "note-15",
+    "name": "薰衣草花边",
+    "width": 216,
+    "height": 213,
+    "area": {
+      "x": 58,
+      "y": 68,
+      "w": 99,
+      "h": 81
+    },
+    "stripY": 58,
+    "stripHeight": 10,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      1028,
+      370,
+      1244,
+      583
+    ]
+  },
+  {
+    "id": "note-16",
+    "name": "格纹胶带纸",
+    "width": 271,
+    "height": 127,
+    "area": {
+      "x": 79,
+      "y": 29,
+      "w": 125,
+      "h": 61
+    },
+    "stripY": 28,
+    "stripHeight": 10,
+    "fixedArt": true,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      11,
+      601,
+      282,
+      728
+    ]
+  },
+  {
+    "id": "note-17",
+    "name": "记录一下",
+    "width": 253,
+    "height": 176,
+    "area": {
+      "x": 51,
+      "y": 83,
+      "w": 134,
+      "h": 58
+    },
+    "stripY": 74,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "sourceBox": [
+      282,
+      578,
+      535,
+      754
+    ]
+  },
+  {
+    "id": "note-18",
+    "name": "鼠尾草蝴蝶结",
+    "width": 252,
+    "height": 182,
+    "area": {
+      "x": 60,
+      "y": 66,
+      "w": 129,
+      "h": 69
+    },
+    "stripY": 75,
+    "stripHeight": 10,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      536,
+      572,
+      788,
+      754
+    ]
+  },
+  {
+    "id": "note-19",
+    "name": "重要事项",
+    "width": 238,
+    "height": 168,
+    "area": {
+      "x": 50,
+      "y": 81,
+      "w": 136,
+      "h": 49
+    },
+    "stripY": 83,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "sourceBox": [
+      789,
+      586,
+      1027,
+      754
+    ]
+  },
+  {
+    "id": "note-20",
+    "name": "灵感便签",
+    "width": 210,
+    "height": 179,
+    "area": {
+      "x": 42,
+      "y": 84,
+      "w": 120,
+      "h": 57
+    },
+    "stripY": 99,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "sourceBox": [
+      1033,
+      582,
+      1243,
+      761
+    ]
+  },
+  {
+    "id": "note-21",
+    "name": "雾蓝花朵对话框",
+    "width": 264,
+    "height": 157,
+    "area": {
+      "x": 69,
+      "y": 50,
+      "w": 124,
+      "h": 57
+    },
+    "stripY": 31,
+    "stripHeight": 4,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      9,
+      734,
+      273,
+      891
+    ]
+  },
+  {
+    "id": "note-22",
+    "name": "奶油圆角标签",
+    "width": 279,
+    "height": 116,
+    "area": {
+      "x": 75,
+      "y": 28,
+      "w": 151,
+      "h": 56
+    },
+    "stripY": 30,
+    "stripHeight": 3,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      273,
+      764,
+      552,
+      880
+    ]
+  },
+  {
+    "id": "note-23",
+    "name": "紫色爱心缎带",
+    "width": 274,
+    "height": 105,
+    "area": {
+      "x": 55,
+      "y": 29,
+      "w": 167,
+      "h": 44
+    },
+    "stripY": 29,
+    "stripHeight": 10,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      551,
+      768,
+      825,
+      873
+    ]
+  },
+  {
+    "id": "note-24",
+    "name": "橄榄绿吊牌",
+    "width": 224,
+    "height": 118,
+    "area": {
+      "x": 56,
+      "y": 32,
+      "w": 112,
+      "h": 51
+    },
+    "stripY": 28,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      824,
+      770,
+      1048,
+      888
+    ]
+  },
+  {
+    "id": "note-25",
+    "name": "粉色心意",
+    "width": 191,
+    "height": 142,
+    "area": {
+      "x": 53,
+      "y": 51,
+      "w": 82,
+      "h": 47
+    },
+    "stripY": 93,
+    "stripHeight": 5,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      1054,
+      756,
+      1245,
+      898
+    ]
+  },
+  {
+    "id": "note-26",
+    "name": "纸上小花",
+    "width": 234,
+    "height": 185,
+    "area": {
+      "x": 70,
+      "y": 44,
+      "w": 136,
+      "h": 111
+    },
+    "stripY": 66,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "sourceBox": [
+      17,
+      886,
+      251,
+      1071
+    ]
+  },
+  {
+    "id": "note-27",
+    "name": "樱桃花边",
+    "width": 261,
+    "height": 199,
+    "area": {
+      "x": 60,
+      "y": 70,
+      "w": 128,
+      "h": 74
+    },
+    "stripY": 85,
+    "stripHeight": 10,
+    "fixedArt": false,
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "sourceBox": [
+      253,
+      878,
+      514,
+      1077
+    ]
+  },
+  {
+    "id": "note-28",
+    "name": "雾蓝胶带便签",
+    "width": 219,
+    "height": 201,
+    "area": {
+      "x": 33,
+      "y": 56,
+      "w": 120,
+      "h": 86
+    },
+    "stripY": 71,
+    "stripHeight": 10,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      513,
+      875,
+      732,
+      1076
+    ]
+  },
+  {
+    "id": "note-29",
+    "name": "蝴蝶结方格纸",
+    "width": 254,
+    "height": 173,
+    "area": {
+      "x": 46,
+      "y": 38,
+      "w": 132,
+      "h": 104
+    },
+    "stripY": 75,
+    "stripHeight": 2,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      735,
+      902,
+      989,
+      1075
+    ]
+  },
+  {
+    "id": "note-30",
+    "name": "小熊便签",
+    "width": 253,
+    "height": 192,
+    "area": {
+      "x": 35,
+      "y": 108,
+      "w": 177,
+      "h": 54
+    },
+    "stripY": 115,
+    "stripHeight": 10,
+    "fixedArt": false,
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "sourceBox": [
+      994,
+      885,
+      1247,
+      1077
+    ]
+  },
+  {
+    "id": "note-31",
+    "name": "鼠尾草花旗",
+    "width": 243,
+    "height": 147,
+    "area": {
+      "x": 66,
+      "y": 37,
+      "w": 129,
+      "h": 66
+    },
+    "stripY": 68,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      9,
+      1079,
+      252,
+      1226
+    ]
+  },
+  {
+    "id": "note-32",
+    "name": "郁金香椭圆",
+    "width": 262,
+    "height": 163,
+    "area": {
+      "x": 97,
+      "y": 42,
+      "w": 107,
+      "h": 68
+    },
+    "stripY": 35,
+    "stripHeight": 4,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      253,
+      1077,
+      515,
+      1240
+    ]
+  },
+  {
+    "id": "note-33",
+    "name": "浅紫邮票",
+    "width": 238,
+    "height": 148,
+    "area": {
+      "x": 48,
+      "y": 44,
+      "w": 143,
+      "h": 59
+    },
+    "stripY": 67,
+    "stripHeight": 5,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      518,
+      1078,
+      756,
+      1226
+    ]
+  },
+  {
+    "id": "note-34",
+    "name": "奶油星云",
+    "width": 247,
+    "height": 154,
+    "area": {
+      "x": 57,
+      "y": 54,
+      "w": 136,
+      "h": 49
+    },
+    "stripY": 43,
+    "stripHeight": 8,
+    "fixedArt": false,
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "sourceBox": [
+      752,
+      1074,
+      999,
+      1228
+    ]
+  },
+  {
+    "id": "note-35",
+    "name": "橄榄叶撕纸",
+    "width": 250,
+    "height": 172,
+    "area": {
+      "x": 68,
+      "y": 60,
+      "w": 135,
+      "h": 76
+    },
+    "stripY": 108,
+    "stripHeight": 10,
+    "fixedArt": false,
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "sourceBox": [
+      996,
+      1071,
+      1246,
+      1243
+    ]
+  }
+]

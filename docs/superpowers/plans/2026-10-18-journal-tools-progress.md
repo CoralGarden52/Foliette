@@ -1,0 +1,18 @@
+# Execution ledger — plan: docs/superpowers/plans/2026-10-18-journal-tools.md
+
+- User confirmed native sequential execution.
+- Workspace: D:/github/Foliette; no Git repository, so worktree/commit scripts do not apply; no branches or commits created.
+- Pre-flight: Task 1 types/geometry consumed by Tasks 2–4; Task 3 commit transaction consumed by Task 4; source coordinates stay stable through resize/crop. Interfaces aligned.
+- Validation red: existing validItems rejects a valid tape element. Existing UI has no journal tool branch.
+- Task 1: complete — Node validation and 500 random inverse-transform checks pass; tape crop, protected erasure and point limits pass.
+- Tasks 2–4: implemented; TypeScript passes. Desktop browser confirms tape placement, independent wavy scissors, rotated local crop, ink drawing, local erasure, preservation of tape, and save. Extended verification in progress.
+- Geometry clarification: erasure stores scaleY with local diameter so non-uniformly resized ink still receives a circular eraser in canvas coordinates. Validated as structured numeric data, not SVG text.
+- Tasks 2–4: complete — five tape patterns/four fancy edges visually inspected in editor and PNG; rotated local crop and independent fancy scissors pass. Three brush renderers and real transparent erasure inspected. Native mobile touch tape/ink/eraser, pointercancel and two-finger cancellation pass; save/reload and JPG pass at 320/390/768px without overflow.
+- Regression fixed RED→GREEN: after native canvas drawing Chromium omitted the next synthetic navigation click; mobile navigation now handles touch pointer-up directly, with normal click retained for mouse/keyboard.
+- Regression fixed RED→GREEN: a previous button blur ended the range transaction immediately after pointer-down; only input blur now ends it. Ten-step slider drag undoes once from 17 back to 6 and redoes to 17.
+- Task 5: browser checks pass for four edges, restore, atomic brush undo/redo and malicious field rejection without modifying saved content. Initial TypeScript, production build and Docker image build pass; final review and deployment rebuild after regression fixes pending.
+- Final review: fresh read-only reviewer found erasure-capacity rollback and exhaustive off-stroke comparisons; both reproduced and fixed RED→GREEN. Capacity now keeps accepted prefix up to4096; distant strokes are excluded by bounds (20x1000 stroke points vs500 eraser points:0.25ms locally). Identical erasure replay is a no-op.
+- Final review: total-capacity insertion gap regraded as important because it makes a 500-stroke document unsavable. Reproduced501st sticker; text/sticker/upload/duplicate/new journal insertion now protect500. Browser verifies rejecting extra sticker/ink and successful save at500.
+- Final review exclusions: reviewer did not independently repeat browser/build checks or rereview concurrent fixes. Parent independently reran native mobile drawing/eraser/cancel/pinch/save/reload/JPG, geometry/validation suite, TypeScript, frontend build and final Docker build; all passed.
+- Task 5: complete — 1000 transform assertions and final regressions pass. Actual PNG reviewed; patterns, fancy clips, and local transparent erasures present. Protected uploaded photo and sticker unchanged. Native mobile final QA wall w_4e0f9e4dc3f14629; desktop visual QA w_db561e0b6bba4396. No deferred findings.
+- Desktop settings regression RED→GREEN: active toolbar previously opened a mobile-only sheet state on desktop and disabled drawing; desktop now keeps the existing side panel active, while mobile still opens its sheet.

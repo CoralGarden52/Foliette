@@ -1,0 +1,48 @@
+services:
+  foliette:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: foliette:1.0.0
+    container_name: foliette
+    restart: unless-stopped
+    ports:
+      - "${PORT:-8080}:8080"
+    environment:
+      NODE_ENV: production
+      PORT: "8080"
+      # ⚠️ 上线前请务必修改为足够长的随机字符串
+      JWT_SECRET: "${JWT_SECRET:?Please set a random JWT_SECRET in .env}"
+      JWT_EXPIRES_IN: "${JWT_EXPIRES_IN:-30d}"
+      DATA_DIR: /app/data
+      ASSETS_DIR: /app/assets
+      PUBLIC_DIR: /app/public
+      COOKIE_SECURE: "${COOKIE_SECURE:-0}"
+      TRUST_PROXY: "${TRUST_PROXY:-0}"
+      ADMIN_USER_IDS: "${ADMIN_USER_IDS:-}"
+      PHOTO_STORAGE: "${PHOTO_STORAGE:-local}"
+      OSS_BUCKET: "${OSS_BUCKET:-}"
+      OSS_REGION: "${OSS_REGION:-}"
+      OSS_ENDPOINT: "${OSS_ENDPOINT:-}"
+      OSS_CNAME: "${OSS_CNAME:-0}"
+      OSS_ACCESS_KEY_ID: "${OSS_ACCESS_KEY_ID:-}"
+      OSS_ACCESS_KEY_SECRET: "${OSS_ACCESS_KEY_SECRET:-}"
+      OSS_SECURITY_TOKEN: "${OSS_SECURITY_TOKEN:-}"
+      MAX_PHOTOS_PER_WALL: "${MAX_PHOTOS_PER_WALL:-20}"
+      MAX_UPLOAD_BYTES: "${MAX_UPLOAD_BYTES:-12582912}"
+      # 如放在反向代理 / 域名后面，可填写对外访问地址（用于拼接图片绝对地址，一般留空即可）
+    volumes:
+      - foliette-data:/app/data
+    init: true
+    security_opt:
+      - no-new-privileges:true
+    read_only: true
+    tmpfs:
+      - /tmp
+    # 如需替换素材，可把宿主机的 assets 目录挂载进来：
+    # volumes:
+    #   - foliette-data:/app/data
+    #   - ./assets:/app/assets:ro
+
+volumes:
+  foliette-data:

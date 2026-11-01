@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "Ma Shan Zheng";
+  src: url("/assets/fonts/mashanzheng/MaShanZheng-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Long Cang";
+  src: url("/assets/fonts/longcang/LongCang-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Zhi Mang Xing";
+  src: url("/assets/fonts/zhimangxing/ZhiMangXing-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Liu Jian Mao Cao";
+  src: url("/assets/fonts/liujianmaocao/LiuJianMaoCao-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "ZCOOL KuaiLe";
+  src: url("/assets/fonts/zcoolkuaile/ZCOOLKuaiLe-Regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}

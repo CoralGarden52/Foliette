@@ -1,0 +1,7500 @@
+[
+  {
+    "id": "note-pastel-s01-001",
+    "name": "粉色回形针花笺",
+    "width": 191,
+    "height": 175,
+    "area": {
+      "x": 64,
+      "y": 62,
+      "w": 93,
+      "h": 79
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      11,
+      14,
+      202,
+      189
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-002",
+    "name": "蝴蝶结信笺",
+    "width": 214,
+    "height": 165,
+    "area": {
+      "x": 35,
+      "y": 84,
+      "w": 141,
+      "h": 47
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      207,
+      14,
+      421,
+      179
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-003",
+    "name": "郁金香活页纸",
+    "width": 202,
+    "height": 171,
+    "area": {
+      "x": 44,
+      "y": 51,
+      "w": 102,
+      "h": 90
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      432,
+      10,
+      634,
+      181
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-004",
+    "name": "猫咪橄榄叶椭圆",
+    "width": 254,
+    "height": 169,
+    "area": {
+      "x": 57,
+      "y": 63,
+      "w": 129,
+      "h": 54
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      637,
+      9,
+      891,
+      178
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-005",
+    "name": "流星奶油云朵",
+    "width": 253,
+    "height": 171,
+    "area": {
+      "x": 49,
+      "y": 72,
+      "w": 150,
+      "h": 41
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      887,
+      11,
+      1140,
+      182
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-006",
+    "name": "雾蓝拍立得",
+    "width": 176,
+    "height": 180,
+    "area": {
+      "x": 32,
+      "y": 40,
+      "w": 110,
+      "h": 81
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      1151,
+      8,
+      1327,
+      188
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-007",
+    "name": "粉色蝴蝶结爱心",
+    "width": 196,
+    "height": 172,
+    "area": {
+      "x": 43,
+      "y": 49,
+      "w": 100,
+      "h": 53
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      1339,
+      17,
+      1535,
+      189
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-008",
+    "name": "花园粉色格纹纸",
+    "width": 249,
+    "height": 142,
+    "area": {
+      "x": 63,
+      "y": 37,
+      "w": 154,
+      "h": 70
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      13,
+      186,
+      262,
+      328
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-009",
+    "name": "绿边花朵云框",
+    "width": 274,
+    "height": 161,
+    "area": {
+      "x": 63,
+      "y": 56,
+      "w": 145,
+      "h": 50
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      261,
+      180,
+      535,
+      341
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-010",
+    "name": "旅行飞机票根",
+    "width": 250,
+    "height": 134,
+    "area": {
+      "x": 45,
+      "y": 26,
+      "w": 122,
+      "h": 48
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      544,
+      193,
+      794,
+      327
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-011",
+    "name": "复古夹子黄便签",
+    "width": 186,
+    "height": 205,
+    "area": {
+      "x": 35,
+      "y": 63,
+      "w": 106,
+      "h": 94
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      804,
+      152,
+      990,
+      357
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-012",
+    "name": "雾蓝花朵对话框",
+    "width": 268,
+    "height": 159,
+    "area": {
+      "x": 51,
+      "y": 44,
+      "w": 164,
+      "h": 63
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      992,
+      174,
+      1260,
+      333
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-013",
+    "name": "胶带三孔横线纸",
+    "width": 261,
+    "height": 135,
+    "area": {
+      "x": 48,
+      "y": 57,
+      "w": 173,
+      "h": 50
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      1267,
+      188,
+      1528,
+      323
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-014",
+    "name": "小熊方格便笺",
+    "width": 202,
+    "height": 205,
+    "area": {
+      "x": 42,
+      "y": 78,
+      "w": 103,
+      "h": 79
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      12,
+      329,
+      214,
+      534
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-015",
+    "name": "樱桃粉色椭圆",
+    "width": 214,
+    "height": 155,
+    "area": {
+      "x": 53,
+      "y": 50,
+      "w": 111,
+      "h": 50
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      216,
+      344,
+      430,
+      499
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-016",
+    "name": "奶茶胶带便笺",
+    "width": 199,
+    "height": 178,
+    "area": {
+      "x": 48,
+      "y": 53,
+      "w": 94,
+      "h": 42
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      435,
+      336,
+      634,
+      514
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-017",
+    "name": "蝴蝶结花边标签",
+    "width": 238,
+    "height": 171,
+    "area": {
+      "x": 57,
+      "y": 58,
+      "w": 126,
+      "h": 48
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      637,
+      343,
+      875,
+      514
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-018",
+    "name": "绿叶复古邮票",
+    "width": 233,
+    "height": 153,
+    "area": {
+      "x": 68,
+      "y": 56,
+      "w": 105,
+      "h": 56
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      888,
+      357,
+      1121,
+      510
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-019",
+    "name": "郁金香方框清单",
+    "width": 216,
+    "height": 192,
+    "area": {
+      "x": 49,
+      "y": 60,
+      "w": 106,
+      "h": 92
+    },
+    "list": "square",
+    "ruled": true,
+    "rows": 3,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      1125,
+      329,
+      1341,
+      521
+    ],
+    "collection": "pastel",
+    "writing": true,
+    "checkArea": {
+      "x": 16,
+      "y": 39,
+      "w": 31,
+      "h": 126
+    }
+  },
+  {
+    "id": "note-pastel-s01-020",
+    "name": "四叶草夹子便签",
+    "width": 177,
+    "height": 199,
+    "area": {
+      "x": 32,
+      "y": 71,
+      "w": 99,
+      "h": 59
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      1349,
+      319,
+      1526,
+      518
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-021",
+    "name": "粉色心意票根",
+    "width": 222,
+    "height": 125,
+    "area": {
+      "x": 52,
+      "y": 28,
+      "w": 110,
+      "h": 61
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      11,
+      530,
+      233,
+      655
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-022",
+    "name": "图钉花园黄便签",
+    "width": 209,
+    "height": 186,
+    "area": {
+      "x": 31,
+      "y": 53,
+      "w": 105,
+      "h": 85
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      237,
+      495,
+      446,
+      681
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-023",
+    "name": "薰衣草星星云朵",
+    "width": 241,
+    "height": 165,
+    "area": {
+      "x": 62,
+      "y": 49,
+      "w": 121,
+      "h": 63
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      452,
+      513,
+      693,
+      678
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-024",
+    "name": "爱心活页清单",
+    "width": 194,
+    "height": 157,
+    "area": {
+      "x": 34,
+      "y": 49,
+      "w": 106,
+      "h": 70
+    },
+    "list": "circle",
+    "ruled": true,
+    "rows": 3,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      693,
+      517,
+      887,
+      674
+    ],
+    "collection": "pastel",
+    "writing": true,
+    "checkArea": {
+      "x": 150,
+      "y": 38,
+      "w": 27,
+      "h": 90
+    }
+  },
+  {
+    "id": "note-pastel-s01-025",
+    "name": "蓝色蝴蝶结爱心",
+    "width": 174,
+    "height": 163,
+    "area": {
+      "x": 44,
+      "y": 70,
+      "w": 85,
+      "h": 31
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      890,
+      521,
+      1064,
+      684
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-026",
+    "name": "蓝色胶带方格纸",
+    "width": 238,
+    "height": 149,
+    "area": {
+      "x": 31,
+      "y": 53,
+      "w": 177,
+      "h": 57
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      1065,
+      525,
+      1303,
+      674
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-027",
+    "name": "绿叶胶带椭圆",
+    "width": 219,
+    "height": 153,
+    "area": {
+      "x": 73,
+      "y": 54,
+      "w": 107,
+      "h": 55
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      1311,
+      514,
+      1530,
+      667
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-028",
+    "name": "奶油花边横线纸",
+    "width": 231,
+    "height": 152,
+    "area": {
+      "x": 51,
+      "y": 51,
+      "w": 131,
+      "h": 46
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      11,
+      653,
+      242,
+      805
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-029",
+    "name": "复古报纸标签",
+    "width": 260,
+    "height": 119,
+    "area": {
+      "x": 63,
+      "y": 44,
+      "w": 162,
+      "h": 36
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      251,
+      677,
+      511,
+      796
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-030",
+    "name": "粉色弯曲缎带",
+    "width": 309,
+    "height": 132,
+    "area": {
+      "x": 54,
+      "y": 42,
+      "w": 165,
+      "h": 35
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      518,
+      674,
+      827,
+      806
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-031",
+    "name": "粉色胶带花园便笺",
+    "width": 263,
+    "height": 132,
+    "area": {
+      "x": 33,
+      "y": 48,
+      "w": 157,
+      "h": 54
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      831,
+      669,
+      1094,
+      801
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-032",
+    "name": "鼠尾草回形针花框",
+    "width": 230,
+    "height": 147,
+    "area": {
+      "x": 51,
+      "y": 55,
+      "w": 133,
+      "h": 48
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      1096,
+      675,
+      1326,
+      822
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-033",
+    "name": "黄色心意便签",
+    "width": 207,
+    "height": 172,
+    "area": {
+      "x": 37,
+      "y": 58,
+      "w": 114,
+      "h": 56
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      1324,
+      667,
+      1531,
+      839
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-034",
+    "name": "蝴蝶结横线便笺",
+    "width": 208,
+    "height": 195,
+    "area": {
+      "x": 46,
+      "y": 99,
+      "w": 125,
+      "h": 57
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      10,
+      801,
+      218,
+      996
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-035",
+    "name": "小花圆形标签",
+    "width": 177,
+    "height": 197,
+    "area": {
+      "x": 37,
+      "y": 61,
+      "w": 102,
+      "h": 64
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      215,
+      797,
+      392,
+      994
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-036",
+    "name": "兔兔撕边便笺",
+    "width": 204,
+    "height": 191,
+    "area": {
+      "x": 30,
+      "y": 61,
+      "w": 120,
+      "h": 34
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      387,
+      805,
+      591,
+      996
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-037",
+    "name": "绿叶牛皮纸",
+    "width": 202,
+    "height": 180,
+    "area": {
+      "x": 38,
+      "y": 61,
+      "w": 101,
+      "h": 63
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      595,
+      811,
+      797,
+      991
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-038",
+    "name": "爱心回形针方格纸",
+    "width": 245,
+    "height": 194,
+    "area": {
+      "x": 56,
+      "y": 66,
+      "w": 145,
+      "h": 80
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      798,
+      799,
+      1043,
+      993
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-039",
+    "name": "郁金香牛皮吊牌",
+    "width": 223,
+    "height": 181,
+    "area": {
+      "x": 90,
+      "y": 46,
+      "w": 79,
+      "h": 66
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      1051,
+      817,
+      1274,
+      998
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s01-040",
+    "name": "星月薰衣草云朵",
+    "width": 248,
+    "height": 161,
+    "area": {
+      "x": 67,
+      "y": 47,
+      "w": 115,
+      "h": 50
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Planner Sticker Sheet-1.png",
+    "sourceSha256": "7643af2594370d87d4ae940e8836d6f17b72806c3c87e6651701441f99c18f32",
+    "sourceBox": [
+      1282,
+      833,
+      1530,
+      994
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-001",
+    "name": "蝴蝶结复古横线纸",
+    "width": 221,
+    "height": 159,
+    "area": {
+      "x": 54,
+      "y": 64,
+      "w": 128,
+      "h": 62
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      11,
+      5,
+      232,
+      164
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-002",
+    "name": "To Do 黄色清单",
+    "width": 167,
+    "height": 166,
+    "area": {
+      "x": 49,
+      "y": 71,
+      "w": 79,
+      "h": 62
+    },
+    "list": "square",
+    "ruled": true,
+    "rows": 3,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      236,
+      4,
+      403,
+      170
+    ],
+    "collection": "pastel",
+    "writing": true,
+    "checkArea": {
+      "x": 24,
+      "y": 68,
+      "w": 23,
+      "h": 72
+    }
+  },
+  {
+    "id": "note-pastel-s02-003",
+    "name": "粉色心意横线纸",
+    "width": 179,
+    "height": 167,
+    "area": {
+      "x": 46,
+      "y": 72,
+      "w": 85,
+      "h": 39
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      399,
+      7,
+      578,
+      174
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-004",
+    "name": "小熊奶油云朵",
+    "width": 238,
+    "height": 171,
+    "area": {
+      "x": 54,
+      "y": 85,
+      "w": 133,
+      "h": 50
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      571,
+      6,
+      809,
+      177
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-005",
+    "name": "夹子雾蓝花边框",
+    "width": 211,
+    "height": 163,
+    "area": {
+      "x": 41,
+      "y": 64,
+      "w": 127,
+      "h": 43
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      809,
+      -4,
+      1020,
+      159
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-006",
+    "name": "粉色蝴蝶结方笺",
+    "width": 215,
+    "height": 175,
+    "area": {
+      "x": 43,
+      "y": 72,
+      "w": 123,
+      "h": 59
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1027,
+      -1,
+      1242,
+      174
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-007",
+    "name": "Notes 绿叶横线纸",
+    "width": 282,
+    "height": 152,
+    "area": {
+      "x": 58,
+      "y": 70,
+      "w": 172,
+      "h": 44
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1246,
+      3,
+      1528,
+      155
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-008",
+    "name": "粉色线圈方格本",
+    "width": 194,
+    "height": 163,
+    "area": {
+      "x": 49,
+      "y": 47,
+      "w": 112,
+      "h": 83
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      10,
+      156,
+      204,
+      319
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-009",
+    "name": "奶油爱心对话框",
+    "width": 209,
+    "height": 141,
+    "area": {
+      "x": 50,
+      "y": 42,
+      "w": 97,
+      "h": 47
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      200,
+      169,
+      409,
+      310
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-010",
+    "name": "郁金香叠纸便笺",
+    "width": 209,
+    "height": 160,
+    "area": {
+      "x": 63,
+      "y": 53,
+      "w": 87,
+      "h": 64
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      406,
+      164,
+      615,
+      324
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-011",
+    "name": "小花胶带方格纸",
+    "width": 185,
+    "height": 165,
+    "area": {
+      "x": 40,
+      "y": 58,
+      "w": 88,
+      "h": 62
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      611,
+      166,
+      796,
+      331
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-012",
+    "name": "猫咪复古横线框",
+    "width": 210,
+    "height": 167,
+    "area": {
+      "x": 44,
+      "y": 41,
+      "w": 117,
+      "h": 62
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      798,
+      163,
+      1008,
+      330
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-013",
+    "name": "樱桃条纹标签",
+    "width": 162,
+    "height": 171,
+    "area": {
+      "x": 31,
+      "y": 63,
+      "w": 95,
+      "h": 55
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1005,
+      163,
+      1167,
+      334
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-014",
+    "name": "圆形粉色蝴蝶结",
+    "width": 175,
+    "height": 174,
+    "area": {
+      "x": 37,
+      "y": 70,
+      "w": 87,
+      "h": 50
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1165,
+      157,
+      1340,
+      331
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-015",
+    "name": "星星蓝色云朵",
+    "width": 194,
+    "height": 162,
+    "area": {
+      "x": 50,
+      "y": 67,
+      "w": 98,
+      "h": 52
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1338,
+      157,
+      1532,
+      319
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-016",
+    "name": "Good Day 花海拍立得",
+    "width": 163,
+    "height": 179,
+    "area": {
+      "x": 39,
+      "y": 132,
+      "w": 89,
+      "h": 16
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      3,
+      311,
+      166,
+      490
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-017",
+    "name": "回形针干花便笺",
+    "width": 185,
+    "height": 175,
+    "area": {
+      "x": 37,
+      "y": 63,
+      "w": 82,
+      "h": 62
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      161,
+      304,
+      346,
+      479
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-018",
+    "name": "薰衣草花边方框",
+    "width": 177,
+    "height": 147,
+    "area": {
+      "x": 36,
+      "y": 35,
+      "w": 93,
+      "h": 52
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      342,
+      324,
+      519,
+      471
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-019",
+    "name": "郁金香四孔活页纸",
+    "width": 187,
+    "height": 152,
+    "area": {
+      "x": 42,
+      "y": 40,
+      "w": 85,
+      "h": 70
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      518,
+      323,
+      705,
+      475
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-020",
+    "name": "粉色格纹椭圆标签",
+    "width": 253,
+    "height": 137,
+    "area": {
+      "x": 54,
+      "y": 53,
+      "w": 141,
+      "h": 40
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      703,
+      331,
+      956,
+      468
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-021",
+    "name": "鼠尾草旗形标签",
+    "width": 232,
+    "height": 120,
+    "area": {
+      "x": 49,
+      "y": 37,
+      "w": 131,
+      "h": 39
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      949,
+      337,
+      1181,
+      457
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-022",
+    "name": "粉色格纹爱心",
+    "width": 175,
+    "height": 155,
+    "area": {
+      "x": 39,
+      "y": 54,
+      "w": 79,
+      "h": 45
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1175,
+      321,
+      1350,
+      476
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-023",
+    "name": "绿叶夹子叠纸便笺",
+    "width": 194,
+    "height": 177,
+    "area": {
+      "x": 50,
+      "y": 66,
+      "w": 73,
+      "h": 54
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1339,
+      307,
+      1533,
+      484
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-024",
+    "name": "鼠尾草对话框",
+    "width": 174,
+    "height": 129,
+    "area": {
+      "x": 39,
+      "y": 39,
+      "w": 87,
+      "h": 44
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      9,
+      480,
+      183,
+      609
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-025",
+    "name": "小花奶油花边纸",
+    "width": 174,
+    "height": 136,
+    "area": {
+      "x": 39,
+      "y": 56,
+      "w": 94,
+      "h": 47
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      179,
+      470,
+      353,
+      606
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-026",
+    "name": "胶带牛皮撕纸",
+    "width": 238,
+    "height": 132,
+    "area": {
+      "x": 46,
+      "y": 56,
+      "w": 148,
+      "h": 40
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      354,
+      467,
+      592,
+      599
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-027",
+    "name": "爱心粉色云朵",
+    "width": 206,
+    "height": 145,
+    "area": {
+      "x": 54,
+      "y": 52,
+      "w": 103,
+      "h": 50
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      591,
+      463,
+      797,
+      608
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-028",
+    "name": "绿叶牛皮吊牌",
+    "width": 195,
+    "height": 144,
+    "area": {
+      "x": 60,
+      "y": 40,
+      "w": 76,
+      "h": 61
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      792,
+      456,
+      987,
+      600
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-029",
+    "name": "粉色手绘装饰点",
+    "width": 46,
+    "height": 51,
+    "area": {
+      "x": 13,
+      "y": 19,
+      "w": 14,
+      "h": 13
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      980,
+      454,
+      1026,
+      505
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s02-030",
+    "name": "薰衣草格纹胶带",
+    "width": 158,
+    "height": 119,
+    "area": {
+      "x": 53,
+      "y": 46,
+      "w": 58,
+      "h": 19
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      985,
+      456,
+      1143,
+      575
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-031",
+    "name": "黄色胶带装饰点",
+    "width": 38,
+    "height": 44,
+    "area": {
+      "x": 12,
+      "y": 11,
+      "w": 12,
+      "h": 12
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1098,
+      544,
+      1136,
+      588
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s02-032",
+    "name": "雾蓝对话框",
+    "width": 171,
+    "height": 137,
+    "area": {
+      "x": 43,
+      "y": 44,
+      "w": 87,
+      "h": 48
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1131,
+      464,
+      1302,
+      601
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-033",
+    "name": "黄色对话框装饰点",
+    "width": 40,
+    "height": 45,
+    "area": {
+      "x": 11,
+      "y": 13,
+      "w": 13,
+      "h": 13
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1284,
+      466,
+      1324,
+      511
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s02-034",
+    "name": "花园电影胶片",
+    "width": 216,
+    "height": 142,
+    "area": {
+      "x": 42,
+      "y": 36,
+      "w": 98,
+      "h": 64
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1314,
+      469,
+      1530,
+      611
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-035",
+    "name": "草莓爱心清单",
+    "width": 176,
+    "height": 155,
+    "area": {
+      "x": 55,
+      "y": 47,
+      "w": 80,
+      "h": 61
+    },
+    "list": "circle",
+    "ruled": true,
+    "rows": 3,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      8,
+      596,
+      184,
+      751
+    ],
+    "collection": "pastel",
+    "writing": true,
+    "checkArea": {
+      "x": 27,
+      "y": 39,
+      "w": 26,
+      "h": 94
+    }
+  },
+  {
+    "id": "note-pastel-s02-036",
+    "name": "小花叠纸便笺",
+    "width": 187,
+    "height": 146,
+    "area": {
+      "x": 52,
+      "y": 47,
+      "w": 78,
+      "h": 47
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      177,
+      598,
+      364,
+      744
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-037",
+    "name": "蝴蝶结奶油椭圆",
+    "width": 213,
+    "height": 148,
+    "area": {
+      "x": 58,
+      "y": 55,
+      "w": 95,
+      "h": 48
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      359,
+      600,
+      572,
+      748
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-038",
+    "name": "绿底碎花活页纸",
+    "width": 191,
+    "height": 127,
+    "area": {
+      "x": 40,
+      "y": 31,
+      "w": 94,
+      "h": 46
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      567,
+      608,
+      758,
+      735
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-039",
+    "name": "郁金香复古报纸",
+    "width": 196,
+    "height": 147,
+    "area": {
+      "x": 41,
+      "y": 46,
+      "w": 79,
+      "h": 44
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      750,
+      594,
+      946,
+      741
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-040",
+    "name": "紫色蝴蝶结花笺",
+    "width": 169,
+    "height": 152,
+    "area": {
+      "x": 55,
+      "y": 60,
+      "w": 72,
+      "h": 59
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      942,
+      574,
+      1111,
+      726
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-041",
+    "name": "猫爪折角便笺",
+    "width": 149,
+    "height": 144,
+    "area": {
+      "x": 34,
+      "y": 32,
+      "w": 62,
+      "h": 46
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1101,
+      602,
+      1250,
+      746
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-042",
+    "name": "兔兔紫色横线纸",
+    "width": 273,
+    "height": 121,
+    "area": {
+      "x": 53,
+      "y": 35,
+      "w": 113,
+      "h": 38
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1247,
+      595,
+      1520,
+      716
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-043",
+    "name": "蝴蝶结花园圆笺",
+    "width": 165,
+    "height": 146,
+    "area": {
+      "x": 41,
+      "y": 52,
+      "w": 73,
+      "h": 51
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      11,
+      740,
+      176,
+      886
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-044",
+    "name": "黄色星星横线纸",
+    "width": 141,
+    "height": 141,
+    "area": {
+      "x": 42,
+      "y": 59,
+      "w": 55,
+      "h": 39
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      167,
+      737,
+      308,
+      878
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-045",
+    "name": "黄色小星星上",
+    "width": 39,
+    "height": 41,
+    "area": {
+      "x": 14,
+      "y": 15,
+      "w": 10,
+      "h": 13
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      265,
+      746,
+      304,
+      787
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s02-046",
+    "name": "黄色小星星下",
+    "width": 39,
+    "height": 41,
+    "area": {
+      "x": 14,
+      "y": 15,
+      "w": 10,
+      "h": 11
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      276,
+      822,
+      315,
+      863
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s02-047",
+    "name": "蓝色格纹活页纸",
+    "width": 205,
+    "height": 127,
+    "area": {
+      "x": 46,
+      "y": 45,
+      "w": 119,
+      "h": 51
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      307,
+      742,
+      512,
+      869
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-048",
+    "name": "奶油爆炸形标签",
+    "width": 191,
+    "height": 146,
+    "area": {
+      "x": 51,
+      "y": 51,
+      "w": 90,
+      "h": 49
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      506,
+      732,
+      697,
+      878
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-049",
+    "name": "爱心五孔清单",
+    "width": 212,
+    "height": 129,
+    "area": {
+      "x": 44,
+      "y": 28,
+      "w": 111,
+      "h": 70
+    },
+    "list": "circle",
+    "ruled": true,
+    "rows": 3,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      696,
+      737,
+      908,
+      866
+    ],
+    "collection": "pastel",
+    "writing": true,
+    "checkArea": {
+      "x": 162,
+      "y": 14,
+      "w": 27,
+      "h": 96
+    }
+  },
+  {
+    "id": "note-pastel-s02-050",
+    "name": "紫色花园椭圆框",
+    "width": 227,
+    "height": 146,
+    "area": {
+      "x": 63,
+      "y": 48,
+      "w": 100,
+      "h": 51
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      904,
+      727,
+      1131,
+      873
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-051",
+    "name": "郁金香圆角标签",
+    "width": 235,
+    "height": 109,
+    "area": {
+      "x": 46,
+      "y": 38,
+      "w": 112,
+      "h": 39
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1126,
+      736,
+      1361,
+      845
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-052",
+    "name": "Checklist 方框清单",
+    "width": 173,
+    "height": 179,
+    "area": {
+      "x": 46,
+      "y": 70,
+      "w": 87,
+      "h": 70
+    },
+    "list": "square",
+    "ruled": true,
+    "rows": 3,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1357,
+      700,
+      1530,
+      879
+    ],
+    "collection": "pastel",
+    "writing": true,
+    "checkArea": {
+      "x": 23,
+      "y": 62,
+      "w": 28,
+      "h": 87
+    }
+  },
+  {
+    "id": "note-pastel-s02-053",
+    "name": "小熊奶油便签",
+    "width": 185,
+    "height": 141,
+    "area": {
+      "x": 36,
+      "y": 65,
+      "w": 107,
+      "h": 46
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      10,
+      876,
+      195,
+      1017
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-054",
+    "name": "小熊左侧装饰光",
+    "width": 40,
+    "height": 38,
+    "area": {
+      "x": 13,
+      "y": 12,
+      "w": 12,
+      "h": 12
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      18,
+      882,
+      58,
+      920
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s02-055",
+    "name": "小熊右侧装饰光",
+    "width": 38,
+    "height": 43,
+    "area": {
+      "x": 14,
+      "y": 15,
+      "w": 10,
+      "h": 13
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      143,
+      872,
+      181,
+      915
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s02-056",
+    "name": "绿叶飘带标签",
+    "width": 207,
+    "height": 135,
+    "area": {
+      "x": 58,
+      "y": 47,
+      "w": 94,
+      "h": 48
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      195,
+      869,
+      402,
+      1004
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-057",
+    "name": "复古报纸爱心",
+    "width": 159,
+    "height": 159,
+    "area": {
+      "x": 59,
+      "y": 54,
+      "w": 40,
+      "h": 46
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      399,
+      859,
+      558,
+      1018
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-058",
+    "name": "蓝花弯曲缎带",
+    "width": 207,
+    "height": 122,
+    "area": {
+      "x": 54,
+      "y": 49,
+      "w": 97,
+      "h": 33
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      551,
+      869,
+      758,
+      991
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-059",
+    "name": "干花夹子横线纸",
+    "width": 200,
+    "height": 161,
+    "area": {
+      "x": 50,
+      "y": 69,
+      "w": 77,
+      "h": 53
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      750,
+      854,
+      950,
+      1015
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-060",
+    "name": "小熊粉色云朵",
+    "width": 170,
+    "height": 145,
+    "area": {
+      "x": 45,
+      "y": 46,
+      "w": 68,
+      "h": 41
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      944,
+      869,
+      1114,
+      1014
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-061",
+    "name": "心印绿叶信封",
+    "width": 225,
+    "height": 174,
+    "area": {
+      "x": 57,
+      "y": 33,
+      "w": 96,
+      "h": 27
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1104,
+      840,
+      1329,
+      1014
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s02-062",
+    "name": "星月蓝色云朵",
+    "width": 205,
+    "height": 148,
+    "area": {
+      "x": 59,
+      "y": 59,
+      "w": 95,
+      "h": 49
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Journaling Sticker Collage-2.png",
+    "sourceSha256": "184a7bea5cb8602d53cee43365f2921ad102cca076592025588b37ab85287a2f",
+    "sourceBox": [
+      1323,
+      870,
+      1528,
+      1018
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-001",
+    "name": "郁金香夹子黄便签",
+    "width": 210,
+    "height": 229,
+    "area": {
+      "x": 42,
+      "y": 78,
+      "w": 101,
+      "h": 93
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      11,
+      0,
+      221,
+      229
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-002",
+    "name": "粉色胶带格纹纸",
+    "width": 199,
+    "height": 204,
+    "area": {
+      "x": 40,
+      "y": 63,
+      "w": 115,
+      "h": 100
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      225,
+      9,
+      424,
+      213
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-003",
+    "name": "猫耳方框夹板清单",
+    "width": 207,
+    "height": 216,
+    "area": {
+      "x": 60,
+      "y": 70,
+      "w": 102,
+      "h": 97
+    },
+    "list": "square",
+    "ruled": true,
+    "rows": 3,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      425,
+      1,
+      632,
+      217
+    ],
+    "collection": "pastel",
+    "writing": true,
+    "checkArea": {
+      "x": 33,
+      "y": 65,
+      "w": 21,
+      "h": 107
+    }
+  },
+  {
+    "id": "note-pastel-s03-004",
+    "name": "蓝色花园方格活页纸",
+    "width": 228,
+    "height": 218,
+    "area": {
+      "x": 57,
+      "y": 56,
+      "w": 96,
+      "h": 126
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      636,
+      1,
+      864,
+      219
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-005",
+    "name": "四叶草绿便笺",
+    "width": 199,
+    "height": 216,
+    "area": {
+      "x": 43,
+      "y": 71,
+      "w": 81,
+      "h": 82
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      865,
+      3,
+      1064,
+      219
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-006",
+    "name": "蝴蝶结粉色爱心",
+    "width": 233,
+    "height": 209,
+    "area": {
+      "x": 50,
+      "y": 73,
+      "w": 112,
+      "h": 61
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      1063,
+      13,
+      1296,
+      222
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-007",
+    "name": "小花叠纸拍立得",
+    "width": 237,
+    "height": 220,
+    "area": {
+      "x": 48,
+      "y": 62,
+      "w": 116,
+      "h": 75
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      1288,
+      0,
+      1525,
+      220
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-008",
+    "name": "星星奶油对话框",
+    "width": 225,
+    "height": 162,
+    "area": {
+      "x": 52,
+      "y": 51,
+      "w": 111,
+      "h": 48
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      8,
+      220,
+      233,
+      382
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-009",
+    "name": "小熊奶油云朵",
+    "width": 223,
+    "height": 174,
+    "area": {
+      "x": 60,
+      "y": 79,
+      "w": 113,
+      "h": 45
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      225,
+      206,
+      448,
+      380
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-010",
+    "name": "鼠尾草星光标签",
+    "width": 213,
+    "height": 171,
+    "area": {
+      "x": 53,
+      "y": 59,
+      "w": 97,
+      "h": 64
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      439,
+      211,
+      652,
+      382
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-011",
+    "name": "花园蝴蝶结椭圆",
+    "width": 228,
+    "height": 158,
+    "area": {
+      "x": 51,
+      "y": 63,
+      "w": 111,
+      "h": 50
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      643,
+      218,
+      871,
+      376
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-012",
+    "name": "粉色爱心撕纸",
+    "width": 231,
+    "height": 154,
+    "area": {
+      "x": 49,
+      "y": 60,
+      "w": 107,
+      "h": 47
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      869,
+      216,
+      1100,
+      370
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-013",
+    "name": "蓝紫色蝴蝶结拍立得",
+    "width": 209,
+    "height": 172,
+    "area": {
+      "x": 42,
+      "y": 39,
+      "w": 96,
+      "h": 66
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      1100,
+      217,
+      1309,
+      389
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-014",
+    "name": "奶油手绘椭圆",
+    "width": 223,
+    "height": 144,
+    "area": {
+      "x": 58,
+      "y": 52,
+      "w": 98,
+      "h": 45
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      1304,
+      229,
+      1527,
+      373
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-015",
+    "name": "郁金香奶油方格纸",
+    "width": 235,
+    "height": 112,
+    "area": {
+      "x": 45,
+      "y": 35,
+      "w": 116,
+      "h": 41
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      11,
+      380,
+      246,
+      492
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-016",
+    "name": "绿叶胶带长标签",
+    "width": 240,
+    "height": 112,
+    "area": {
+      "x": 59,
+      "y": 40,
+      "w": 136,
+      "h": 37
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      243,
+      374,
+      483,
+      486
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-017",
+    "name": "蓝花复古报纸",
+    "width": 216,
+    "height": 124,
+    "area": {
+      "x": 44,
+      "y": 49,
+      "w": 94,
+      "h": 36
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      477,
+      365,
+      693,
+      489
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-018",
+    "name": "粉色撕纸长标签",
+    "width": 205,
+    "height": 90,
+    "area": {
+      "x": 41,
+      "y": 28,
+      "w": 124,
+      "h": 34
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      687,
+      382,
+      892,
+      472
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-019",
+    "name": "紫色蝴蝶结旗形纸",
+    "width": 285,
+    "height": 96,
+    "area": {
+      "x": 58,
+      "y": 44,
+      "w": 174,
+      "h": 24
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      886,
+      376,
+      1171,
+      472
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-020",
+    "name": "棕色格纹胶带",
+    "width": 161,
+    "height": 99,
+    "area": {
+      "x": 46,
+      "y": 32,
+      "w": 70,
+      "h": 27
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      1165,
+      382,
+      1326,
+      481
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-021",
+    "name": "奶油三颗爱心标签",
+    "width": 206,
+    "height": 87,
+    "area": {
+      "x": 34,
+      "y": 36,
+      "w": 128,
+      "h": 27
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      1320,
+      387,
+      1526,
+      474
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-022",
+    "name": "旅行飞机票根",
+    "width": 269,
+    "height": 134,
+    "area": {
+      "x": 87,
+      "y": 43,
+      "w": 129,
+      "h": 45
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      7,
+      487,
+      276,
+      621
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-023",
+    "name": "小花复古邮票",
+    "width": 191,
+    "height": 151,
+    "area": {
+      "x": 59,
+      "y": 41,
+      "w": 56,
+      "h": 57
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      281,
+      485,
+      472,
+      636
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-024",
+    "name": "绿叶牛皮吊牌",
+    "width": 258,
+    "height": 141,
+    "area": {
+      "x": 76,
+      "y": 38,
+      "w": 100,
+      "h": 62
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      458,
+      483,
+      716,
+      624
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-025",
+    "name": "胶带奶油撕纸",
+    "width": 244,
+    "height": 169,
+    "area": {
+      "x": 58,
+      "y": 61,
+      "w": 116,
+      "h": 54
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      727,
+      467,
+      971,
+      636
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-026",
+    "name": "蓝边花朵云朵",
+    "width": 287,
+    "height": 184,
+    "area": {
+      "x": 79,
+      "y": 61,
+      "w": 148,
+      "h": 61
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      970,
+      464,
+      1257,
+      648
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-027",
+    "name": "花园回形针活页纸",
+    "width": 271,
+    "height": 168,
+    "area": {
+      "x": 68,
+      "y": 58,
+      "w": 116,
+      "h": 59
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      1256,
+      471,
+      1527,
+      639
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-028",
+    "name": "蝴蝶结四孔方格纸",
+    "width": 216,
+    "height": 208,
+    "area": {
+      "x": 56,
+      "y": 78,
+      "w": 114,
+      "h": 84
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      11,
+      615,
+      227,
+      823
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-029",
+    "name": "樱桃奶油爱心",
+    "width": 215,
+    "height": 192,
+    "area": {
+      "x": 50,
+      "y": 70,
+      "w": 91,
+      "h": 45
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      224,
+      630,
+      439,
+      822
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-030",
+    "name": "猫咪胶带叠纸便笺",
+    "width": 191,
+    "height": 195,
+    "area": {
+      "x": 49,
+      "y": 61,
+      "w": 85,
+      "h": 58
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      441,
+      623,
+      632,
+      818
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-031",
+    "name": "蝴蝶结奶油圆笺",
+    "width": 202,
+    "height": 196,
+    "area": {
+      "x": 51,
+      "y": 72,
+      "w": 103,
+      "h": 54
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      624,
+      627,
+      826,
+      823
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-032",
+    "name": "小花三孔横版纸",
+    "width": 244,
+    "height": 191,
+    "area": {
+      "x": 66,
+      "y": 59,
+      "w": 115,
+      "h": 54
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      827,
+      635,
+      1071,
+      826
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-033",
+    "name": "玫瑰粉色涂抹纸",
+    "width": 263,
+    "height": 161,
+    "area": {
+      "x": 55,
+      "y": 50,
+      "w": 127,
+      "h": 54
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      1071,
+      648,
+      1334,
+      809
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-034",
+    "name": "四叶草叠纸便笺",
+    "width": 200,
+    "height": 201,
+    "area": {
+      "x": 59,
+      "y": 73,
+      "w": 89,
+      "h": 55
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      1325,
+      630,
+      1525,
+      831
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-035",
+    "name": "粉色郁金香造型纸",
+    "width": 157,
+    "height": 185,
+    "area": {
+      "x": 44,
+      "y": 61,
+      "w": 71,
+      "h": 53
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      14,
+      816,
+      171,
+      1001
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-036",
+    "name": "蝴蝶结黄色星星",
+    "width": 205,
+    "height": 206,
+    "area": {
+      "x": 64,
+      "y": 80,
+      "w": 78,
+      "h": 59
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      167,
+      794,
+      372,
+      1000
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-037",
+    "name": "星月蓝色云朵",
+    "width": 247,
+    "height": 174,
+    "area": {
+      "x": 64,
+      "y": 56,
+      "w": 107,
+      "h": 55
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      359,
+      817,
+      606,
+      991
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-038",
+    "name": "紫色蝴蝶结花边框",
+    "width": 234,
+    "height": 166,
+    "area": {
+      "x": 48,
+      "y": 40,
+      "w": 120,
+      "h": 55
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      601,
+      819,
+      835,
+      985
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-039",
+    "name": "小花牛皮撕纸",
+    "width": 216,
+    "height": 179,
+    "area": {
+      "x": 40,
+      "y": 56,
+      "w": 109,
+      "h": 64
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      835,
+      820,
+      1051,
+      999
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-040",
+    "name": "绿叶奶油椭圆",
+    "width": 246,
+    "height": 187,
+    "area": {
+      "x": 65,
+      "y": 70,
+      "w": 117,
+      "h": 60
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      1048,
+      814,
+      1294,
+      1001
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s03-041",
+    "name": "花园奶油花边框",
+    "width": 238,
+    "height": 183,
+    "area": {
+      "x": 67,
+      "y": 53,
+      "w": 103,
+      "h": 69
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Stationery Sticker Sheet-3.png",
+    "sourceSha256": "0f67fb74e2347951b134b83988395f47a95ec3c0c64f33c0c565f4b3e3ff1500",
+    "sourceBox": [
+      1290,
+      819,
+      1528,
+      1002
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-001",
+    "name": "回形针粉色横线纸",
+    "width": 221,
+    "height": 190,
+    "area": {
+      "x": 49,
+      "y": 61,
+      "w": 112,
+      "h": 75
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      4,
+      9,
+      225,
+      199
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-002",
+    "name": "鼠尾草云朵便笺",
+    "width": 250,
+    "height": 199,
+    "area": {
+      "x": 71,
+      "y": 64,
+      "w": 111,
+      "h": 71
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      219,
+      4,
+      469,
+      203
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-003",
+    "name": "郁金香胶带活页纸",
+    "width": 252,
+    "height": 188,
+    "area": {
+      "x": 58,
+      "y": 59,
+      "w": 115,
+      "h": 82
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      475,
+      5,
+      727,
+      193
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-004",
+    "name": "蝴蝶结花园椭圆",
+    "width": 274,
+    "height": 178,
+    "area": {
+      "x": 65,
+      "y": 65,
+      "w": 148,
+      "h": 57
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      729,
+      6,
+      1003,
+      184
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-005",
+    "name": "小熊复古票根",
+    "width": 267,
+    "height": 186,
+    "area": {
+      "x": 53,
+      "y": 77,
+      "w": 137,
+      "h": 63
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      1004,
+      3,
+      1271,
+      189
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-006",
+    "name": "旅行飞机航空信笺",
+    "width": 259,
+    "height": 190,
+    "area": {
+      "x": 54,
+      "y": 70,
+      "w": 139,
+      "h": 63
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      1276,
+      6,
+      1535,
+      196
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-007",
+    "name": "奶油花边花园纸",
+    "width": 231,
+    "height": 173,
+    "area": {
+      "x": 69,
+      "y": 57,
+      "w": 100,
+      "h": 56
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      3,
+      191,
+      234,
+      364
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-008",
+    "name": "樱桃胶带方格纸",
+    "width": 219,
+    "height": 175,
+    "area": {
+      "x": 43,
+      "y": 56,
+      "w": 101,
+      "h": 70
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      231,
+      190,
+      450,
+      365
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-009",
+    "name": "粉色蝴蝶结爱心",
+    "width": 210,
+    "height": 180,
+    "area": {
+      "x": 46,
+      "y": 65,
+      "w": 81,
+      "h": 46
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      448,
+      184,
+      658,
+      364
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-010",
+    "name": "Today 圆圈待办清单",
+    "width": 201,
+    "height": 214,
+    "area": {
+      "x": 61,
+      "y": 73,
+      "w": 85,
+      "h": 97
+    },
+    "list": "circle",
+    "ruled": true,
+    "rows": 3,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      663,
+      173,
+      864,
+      387
+    ],
+    "collection": "pastel",
+    "writing": true,
+    "checkArea": {
+      "x": 30,
+      "y": 55,
+      "w": 27,
+      "h": 123
+    }
+  },
+  {
+    "id": "note-pastel-s04-011",
+    "name": "雾蓝叠纸便笺",
+    "width": 199,
+    "height": 206,
+    "area": {
+      "x": 42,
+      "y": 98,
+      "w": 90,
+      "h": 46
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      870,
+      173,
+      1069,
+      379
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-012",
+    "name": "蝴蝶结粉色云朵",
+    "width": 275,
+    "height": 191,
+    "area": {
+      "x": 73,
+      "y": 62,
+      "w": 130,
+      "h": 74
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      1061,
+      190,
+      1336,
+      381
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-013",
+    "name": "绿叶夹子方格纸",
+    "width": 209,
+    "height": 200,
+    "area": {
+      "x": 55,
+      "y": 69,
+      "w": 94,
+      "h": 65
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      1325,
+      184,
+      1534,
+      384
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-014",
+    "name": "郁金香粉色撕纸",
+    "width": 222,
+    "height": 166,
+    "area": {
+      "x": 42,
+      "y": 51,
+      "w": 112,
+      "h": 66
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      6,
+      356,
+      228,
+      522
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-015",
+    "name": "奶油星星旗形纸",
+    "width": 237,
+    "height": 127,
+    "area": {
+      "x": 60,
+      "y": 45,
+      "w": 100,
+      "h": 44
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      217,
+      353,
+      454,
+      480
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-016",
+    "name": "猫咪奶油对话框",
+    "width": 219,
+    "height": 160,
+    "area": {
+      "x": 52,
+      "y": 71,
+      "w": 113,
+      "h": 43
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      439,
+      344,
+      658,
+      504
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-017",
+    "name": "小花鼠尾草涂抹纸",
+    "width": 249,
+    "height": 132,
+    "area": {
+      "x": 70,
+      "y": 59,
+      "w": 129,
+      "h": 36
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      652,
+      380,
+      901,
+      512
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-018",
+    "name": "蝴蝶结紫色横线纸",
+    "width": 204,
+    "height": 161,
+    "area": {
+      "x": 56,
+      "y": 50,
+      "w": 100,
+      "h": 44
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      894,
+      365,
+      1098,
+      526
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-019",
+    "name": "蓝色弯曲缎带",
+    "width": 239,
+    "height": 133,
+    "area": {
+      "x": 56,
+      "y": 53,
+      "w": 119,
+      "h": 22
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      1098,
+      377,
+      1337,
+      510
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-020",
+    "name": "小花牛皮横线纸",
+    "width": 196,
+    "height": 172,
+    "area": {
+      "x": 38,
+      "y": 63,
+      "w": 89,
+      "h": 66
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      1339,
+      377,
+      1535,
+      549
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-021",
+    "name": "手绘奶油椭圆",
+    "width": 226,
+    "height": 157,
+    "area": {
+      "x": 59,
+      "y": 47,
+      "w": 108,
+      "h": 50
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      11,
+      514,
+      237,
+      671
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-022",
+    "name": "花园蓝色格纹纸",
+    "width": 208,
+    "height": 182,
+    "area": {
+      "x": 46,
+      "y": 72,
+      "w": 98,
+      "h": 57
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      232,
+      461,
+      440,
+      643
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-023",
+    "name": "爱心活页横线纸",
+    "width": 224,
+    "height": 168,
+    "area": {
+      "x": 51,
+      "y": 50,
+      "w": 108,
+      "h": 78
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      436,
+      495,
+      660,
+      663
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-024",
+    "name": "星月薰衣草云朵",
+    "width": 230,
+    "height": 169,
+    "area": {
+      "x": 61,
+      "y": 62,
+      "w": 115,
+      "h": 47
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      657,
+      501,
+      887,
+      670
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-025",
+    "name": "手绘爱心虚线",
+    "width": 65,
+    "height": 97,
+    "area": {
+      "x": 21,
+      "y": 23,
+      "w": 20,
+      "h": 16
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      870,
+      535,
+      935,
+      632
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s04-026",
+    "name": "星星虚线装饰",
+    "width": 41,
+    "height": 77,
+    "area": {
+      "x": 17,
+      "y": 48,
+      "w": 8,
+      "h": 12
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      861,
+      603,
+      902,
+      680
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s04-027",
+    "name": "奶油黄色星星",
+    "width": 192,
+    "height": 184,
+    "area": {
+      "x": 64,
+      "y": 70,
+      "w": 66,
+      "h": 53
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      900,
+      512,
+      1092,
+      696
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-028",
+    "name": "鼠尾草蝴蝶结椭圆",
+    "width": 271,
+    "height": 198,
+    "area": {
+      "x": 67,
+      "y": 71,
+      "w": 115,
+      "h": 55
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      1086,
+      492,
+      1357,
+      690
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-029",
+    "name": "蓝天花海拍立得",
+    "width": 178,
+    "height": 174,
+    "area": {
+      "x": 36,
+      "y": 130,
+      "w": 67,
+      "h": 14
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      1352,
+      538,
+      1530,
+      712
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-030",
+    "name": "雾蓝花园撕纸",
+    "width": 244,
+    "height": 156,
+    "area": {
+      "x": 80,
+      "y": 46,
+      "w": 100,
+      "h": 51
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      5,
+      662,
+      249,
+      818
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-031",
+    "name": "兔兔粉色圆笺",
+    "width": 204,
+    "height": 192,
+    "area": {
+      "x": 42,
+      "y": 68,
+      "w": 86,
+      "h": 69
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      245,
+      635,
+      449,
+      827
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-032",
+    "name": "蝴蝶结郁金香方格纸",
+    "width": 244,
+    "height": 188,
+    "area": {
+      "x": 45,
+      "y": 74,
+      "w": 99,
+      "h": 64
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      446,
+      650,
+      690,
+      838
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-033",
+    "name": "绿叶四孔横线纸",
+    "width": 218,
+    "height": 170,
+    "area": {
+      "x": 63,
+      "y": 43,
+      "w": 95,
+      "h": 76
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      687,
+      671,
+      905,
+      841
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-034",
+    "name": "蝴蝶结粉色撕纸",
+    "width": 206,
+    "height": 142,
+    "area": {
+      "x": 41,
+      "y": 46,
+      "w": 98,
+      "h": 42
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      900,
+      689,
+      1106,
+      831
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-035",
+    "name": "猫咪奶油椭圆对话框",
+    "width": 237,
+    "height": 158,
+    "area": {
+      "x": 47,
+      "y": 51,
+      "w": 91,
+      "h": 47
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      1099,
+      684,
+      1336,
+      842
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-036",
+    "name": "紫花胶带撕纸",
+    "width": 204,
+    "height": 143,
+    "area": {
+      "x": 41,
+      "y": 52,
+      "w": 83,
+      "h": 48
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      1327,
+      693,
+      1531,
+      836
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-037",
+    "name": "花园蓝色吊牌",
+    "width": 136,
+    "height": 209,
+    "area": {
+      "x": 38,
+      "y": 62,
+      "w": 59,
+      "h": 65
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      5,
+      811,
+      141,
+      1020
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-038",
+    "name": "蝴蝶结活页横线纸",
+    "width": 234,
+    "height": 203,
+    "area": {
+      "x": 54,
+      "y": 97,
+      "w": 128,
+      "h": 60
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      134,
+      814,
+      368,
+      1017
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-039",
+    "name": "郁金香复古邮票",
+    "width": 199,
+    "height": 182,
+    "area": {
+      "x": 43,
+      "y": 41,
+      "w": 62,
+      "h": 13
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      356,
+      825,
+      555,
+      1007
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-040",
+    "name": "紫花奶油旗形纸",
+    "width": 310,
+    "height": 163,
+    "area": {
+      "x": 88,
+      "y": 63,
+      "w": 154,
+      "h": 48
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      534,
+      845,
+      844,
+      1008
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-041",
+    "name": "星球蓝色云朵",
+    "width": 258,
+    "height": 175,
+    "area": {
+      "x": 68,
+      "y": 65,
+      "w": 108,
+      "h": 48
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      828,
+      828,
+      1086,
+      1003
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-042",
+    "name": "粉色胶带花园方笺",
+    "width": 242,
+    "height": 187,
+    "area": {
+      "x": 71,
+      "y": 64,
+      "w": 117,
+      "h": 55
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      1083,
+      829,
+      1325,
+      1016
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s04-043",
+    "name": "格纹胶带粉色爱心",
+    "width": 209,
+    "height": 183,
+    "area": {
+      "x": 59,
+      "y": 62,
+      "w": 90,
+      "h": 53
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Sheet-4.png",
+    "sourceSha256": "fa8270db8a5b2910e7f50ac60a5341a38c4cf77436675468736c906da7469fa0",
+    "sourceBox": [
+      1321,
+      823,
+      1530,
+      1006
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-001",
+    "name": "兔兔粉色夹板便笺",
+    "width": 188,
+    "height": 184,
+    "area": {
+      "x": 48,
+      "y": 70,
+      "w": 99,
+      "h": 65
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      3,
+      0,
+      191,
+      184
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-002",
+    "name": "夹板叠纸组合",
+    "width": 280,
+    "height": 183,
+    "area": {
+      "x": 72,
+      "y": 121,
+      "w": 158,
+      "h": 32
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      188,
+      0,
+      468,
+      183
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-003",
+    "name": "绿底小花旗形纸",
+    "width": 182,
+    "height": 86,
+    "area": {
+      "x": 36,
+      "y": 38,
+      "w": 35,
+      "h": 21
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      303,
+      12,
+      485,
+      98
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-004",
+    "name": "郁金香奶油长标签",
+    "width": 297,
+    "height": 113,
+    "area": {
+      "x": 45,
+      "y": 38,
+      "w": 187,
+      "h": 35
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      487,
+      11,
+      784,
+      124
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-005",
+    "name": "粉色蜡笔爱心",
+    "width": 143,
+    "height": 134,
+    "area": {
+      "x": 39,
+      "y": 47,
+      "w": 54,
+      "h": 35
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      781,
+      12,
+      924,
+      146
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-006",
+    "name": "雾蓝云朵便笺",
+    "width": 224,
+    "height": 143,
+    "area": {
+      "x": 64,
+      "y": 44,
+      "w": 93,
+      "h": 51
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      895,
+      9,
+      1119,
+      152
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-007",
+    "name": "小花奶油书页",
+    "width": 257,
+    "height": 169,
+    "area": {
+      "x": 54,
+      "y": 52,
+      "w": 136,
+      "h": 57
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1103,
+      10,
+      1360,
+      179
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-008",
+    "name": "Good Day 黄色便笺",
+    "width": 185,
+    "height": 196,
+    "area": {
+      "x": 42,
+      "y": 142,
+      "w": 77,
+      "h": 22
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1349,
+      0,
+      1534,
+      196
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-009",
+    "name": "小号粉色蝴蝶结爱心",
+    "width": 82,
+    "height": 73,
+    "area": {
+      "x": 30,
+      "y": 26,
+      "w": 25,
+      "h": 21
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      466,
+      117,
+      548,
+      190
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s05-010",
+    "name": "蓝边星星对话框",
+    "width": 234,
+    "height": 107,
+    "area": {
+      "x": 51,
+      "y": 44,
+      "w": 130,
+      "h": 30
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      7,
+      179,
+      241,
+      286
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-011",
+    "name": "粉色格纹蝴蝶结旗",
+    "width": 316,
+    "height": 101,
+    "area": {
+      "x": 121,
+      "y": 45,
+      "w": 127,
+      "h": 24
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      230,
+      171,
+      546,
+      272
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-012",
+    "name": "绿叶鼠尾草对话框",
+    "width": 187,
+    "height": 144,
+    "area": {
+      "x": 47,
+      "y": 48,
+      "w": 89,
+      "h": 46
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      541,
+      124,
+      728,
+      268
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-013",
+    "name": "樱桃奶油方格纸",
+    "width": 233,
+    "height": 138,
+    "area": {
+      "x": 44,
+      "y": 58,
+      "w": 119,
+      "h": 44
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      730,
+      139,
+      963,
+      277
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-014",
+    "name": "绿叶复古邮票",
+    "width": 186,
+    "height": 143,
+    "area": {
+      "x": 59,
+      "y": 43,
+      "w": 59,
+      "h": 39
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      963,
+      152,
+      1149,
+      295
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-015",
+    "name": "卷纸牛皮标签",
+    "width": 253,
+    "height": 114,
+    "area": {
+      "x": 63,
+      "y": 47,
+      "w": 130,
+      "h": 24
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1130,
+      180,
+      1383,
+      294
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-016",
+    "name": "小熊横线便笺",
+    "width": 157,
+    "height": 204,
+    "area": {
+      "x": 29,
+      "y": 89,
+      "w": 93,
+      "h": 68
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1377,
+      182,
+      1534,
+      386
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-017",
+    "name": "咖啡杯心意标签",
+    "width": 147,
+    "height": 142,
+    "area": {
+      "x": 35,
+      "y": 69,
+      "w": 47,
+      "h": 25
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1,
+      294,
+      148,
+      436
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-018",
+    "name": "小花黄色横线便笺",
+    "width": 205,
+    "height": 165,
+    "area": {
+      "x": 55,
+      "y": 46,
+      "w": 108,
+      "h": 55
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      137,
+      272,
+      342,
+      437
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-019",
+    "name": "蓝天花园拍立得",
+    "width": 178,
+    "height": 192,
+    "area": {
+      "x": 53,
+      "y": 151,
+      "w": 72,
+      "h": 14
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      340,
+      263,
+      518,
+      455
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-020",
+    "name": "爱心胶带活页纸",
+    "width": 178,
+    "height": 188,
+    "area": {
+      "x": 52,
+      "y": 72,
+      "w": 84,
+      "h": 70
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      512,
+      259,
+      690,
+      447
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-021",
+    "name": "蝴蝶结粉色爱心",
+    "width": 191,
+    "height": 166,
+    "area": {
+      "x": 49,
+      "y": 56,
+      "w": 78,
+      "h": 44
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      679,
+      272,
+      870,
+      438
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-022",
+    "name": "绿叶花朵横线爱心",
+    "width": 191,
+    "height": 172,
+    "area": {
+      "x": 47,
+      "y": 64,
+      "w": 88,
+      "h": 52
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      860,
+      270,
+      1051,
+      442
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-023",
+    "name": "紫花胶带方形纸",
+    "width": 235,
+    "height": 150,
+    "area": {
+      "x": 46,
+      "y": 53,
+      "w": 106,
+      "h": 51
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1051,
+      283,
+      1286,
+      433
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-024",
+    "name": "紫色蝴蝶结书签",
+    "width": 86,
+    "height": 166,
+    "area": {
+      "x": 31,
+      "y": 69,
+      "w": 28,
+      "h": 51
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1289,
+      273,
+      1375,
+      439
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-025",
+    "name": "粉色格纹椭圆便笺",
+    "width": 179,
+    "height": 191,
+    "area": {
+      "x": 47,
+      "y": 74,
+      "w": 75,
+      "h": 53
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1357,
+      379,
+      1536,
+      570
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-026",
+    "name": "蝴蝶结花园椭圆",
+    "width": 224,
+    "height": 181,
+    "area": {
+      "x": 64,
+      "y": 66,
+      "w": 106,
+      "h": 48
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      7,
+      421,
+      231,
+      602
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-027",
+    "name": "猫咪回形针便笺",
+    "width": 197,
+    "height": 150,
+    "area": {
+      "x": 40,
+      "y": 85,
+      "w": 100,
+      "h": 33
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      224,
+      433,
+      421,
+      583
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-028",
+    "name": "蓝花夹子方形纸",
+    "width": 157,
+    "height": 172,
+    "area": {
+      "x": 47,
+      "y": 57,
+      "w": 58,
+      "h": 53
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      411,
+      451,
+      568,
+      623
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-029",
+    "name": "雾蓝花边云框",
+    "width": 194,
+    "height": 139,
+    "area": {
+      "x": 58,
+      "y": 42,
+      "w": 81,
+      "h": 45
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      550,
+      442,
+      744,
+      581
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-030",
+    "name": "黄色格纹回形针星星",
+    "width": 173,
+    "height": 177,
+    "area": {
+      "x": 53,
+      "y": 71,
+      "w": 45,
+      "h": 40
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      728,
+      415,
+      901,
+      592
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-031",
+    "name": "旅行飞机牛皮纸",
+    "width": 210,
+    "height": 146,
+    "area": {
+      "x": 39,
+      "y": 34,
+      "w": 104,
+      "h": 48
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      891,
+      435,
+      1101,
+      581
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-032",
+    "name": "双格心意电影胶片",
+    "width": 263,
+    "height": 138,
+    "area": {
+      "x": 38,
+      "y": 42,
+      "w": 69,
+      "h": 49
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1100,
+      434,
+      1363,
+      572
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-033",
+    "name": "干花牛皮撕纸",
+    "width": 259,
+    "height": 135,
+    "area": {
+      "x": 74,
+      "y": 55,
+      "w": 123,
+      "h": 37
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      4,
+      578,
+      263,
+      713
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-034",
+    "name": "鼠尾草花边清单",
+    "width": 189,
+    "height": 172,
+    "area": {
+      "x": 55,
+      "y": 58,
+      "w": 84,
+      "h": 52
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      248,
+      572,
+      437,
+      744
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-035",
+    "name": "奶油蝴蝶结缎带",
+    "width": 285,
+    "height": 130,
+    "area": {
+      "x": 52,
+      "y": 59,
+      "w": 158,
+      "h": 29
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      435,
+      586,
+      720,
+      716
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-036",
+    "name": "薰衣草蝴蝶造型",
+    "width": 166,
+    "height": 135,
+    "area": {
+      "x": 60,
+      "y": 46,
+      "w": 44,
+      "h": 34
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      715,
+      584,
+      881,
+      719
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s05-037",
+    "name": "星月奶油云朵",
+    "width": 243,
+    "height": 155,
+    "area": {
+      "x": 67,
+      "y": 60,
+      "w": 115,
+      "h": 46
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      871,
+      577,
+      1114,
+      732
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-038",
+    "name": "草莓粉色花边纸",
+    "width": 267,
+    "height": 148,
+    "area": {
+      "x": 49,
+      "y": 48,
+      "w": 160,
+      "h": 55
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1109,
+      574,
+      1376,
+      722
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-039",
+    "name": "郁金香花海拍立得",
+    "width": 159,
+    "height": 182,
+    "area": {
+      "x": 39,
+      "y": 143,
+      "w": 78,
+      "h": 15
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1374,
+      557,
+      1533,
+      739
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-040",
+    "name": "粉色旗形标签",
+    "width": 255,
+    "height": 110,
+    "area": {
+      "x": 55,
+      "y": 44,
+      "w": 149,
+      "h": 33
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1,
+      702,
+      256,
+      812
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-041",
+    "name": "粉色心意线圈方格本",
+    "width": 182,
+    "height": 129,
+    "area": {
+      "x": 43,
+      "y": 48,
+      "w": 92,
+      "h": 54
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      250,
+      734,
+      432,
+      863
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-042",
+    "name": "绿叶牛皮吊牌",
+    "width": 156,
+    "height": 162,
+    "area": {
+      "x": 45,
+      "y": 64,
+      "w": 52,
+      "h": 47
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      435,
+      709,
+      591,
+      871
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-043",
+    "name": "爱心奶油方格云朵",
+    "width": 197,
+    "height": 161,
+    "area": {
+      "x": 53,
+      "y": 57,
+      "w": 83,
+      "h": 52
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      575,
+      691,
+      772,
+      852
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-044",
+    "name": "粉色胶带爱心",
+    "width": 166,
+    "height": 151,
+    "area": {
+      "x": 45,
+      "y": 53,
+      "w": 68,
+      "h": 42
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      765,
+      709,
+      931,
+      860
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-045",
+    "name": "蓝色花园缎带",
+    "width": 252,
+    "height": 131,
+    "area": {
+      "x": 74,
+      "y": 38,
+      "w": 106,
+      "h": 38
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      901,
+      734,
+      1153,
+      865
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-046",
+    "name": "郁金香夹子线圈本",
+    "width": 192,
+    "height": 185,
+    "area": {
+      "x": 49,
+      "y": 62,
+      "w": 71,
+      "h": 79
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1145,
+      709,
+      1337,
+      894
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-047",
+    "name": "小熊奶油云框",
+    "width": 209,
+    "height": 152,
+    "area": {
+      "x": 59,
+      "y": 67,
+      "w": 93,
+      "h": 46
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1326,
+      728,
+      1535,
+      880
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-048",
+    "name": "三格绿叶电影胶片",
+    "width": 262,
+    "height": 182,
+    "area": {
+      "x": 106,
+      "y": 39,
+      "w": 48,
+      "h": 107
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      -5,
+      809,
+      257,
+      991
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-049",
+    "name": "回形针牛皮活页纸",
+    "width": 160,
+    "height": 160,
+    "area": {
+      "x": 49,
+      "y": 59,
+      "w": 66,
+      "h": 54
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      252,
+      852,
+      412,
+      1012
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-050",
+    "name": "蝴蝶结蓝色圆笺",
+    "width": 194,
+    "height": 163,
+    "area": {
+      "x": 50,
+      "y": 69,
+      "w": 81,
+      "h": 47
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      402,
+      851,
+      596,
+      1014
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-051",
+    "name": "向日葵胶带便笺",
+    "width": 158,
+    "height": 174,
+    "area": {
+      "x": 39,
+      "y": 57,
+      "w": 67,
+      "h": 48
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      585,
+      839,
+      743,
+      1013
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-052",
+    "name": "小花绿胶带方笺",
+    "width": 186,
+    "height": 155,
+    "area": {
+      "x": 42,
+      "y": 53,
+      "w": 82,
+      "h": 58
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      736,
+      842,
+      922,
+      997
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-053",
+    "name": "粉色对话框",
+    "width": 216,
+    "height": 151,
+    "area": {
+      "x": 50,
+      "y": 53,
+      "w": 111,
+      "h": 41
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      916,
+      856,
+      1132,
+      1007
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-054",
+    "name": "小花蓝色格纹纸",
+    "width": 255,
+    "height": 98,
+    "area": {
+      "x": 75,
+      "y": 33,
+      "w": 131,
+      "h": 33
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1122,
+      893,
+      1377,
+      991
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s05-055",
+    "name": "绿叶花边圆笺",
+    "width": 154,
+    "height": 142,
+    "area": {
+      "x": 48,
+      "y": 51,
+      "w": 56,
+      "h": 35
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Scrapbook Sticker Sheet-5.png",
+    "sourceSha256": "eea0ed12e95932b4723cafdecbb6afec15cf37860748e5f4c34ee7ba3fa8a4a5",
+    "sourceBox": [
+      1380,
+      873,
+      1534,
+      1015
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-001",
+    "name": "蓝色猫咪胶带叠纸",
+    "width": 176,
+    "height": 185,
+    "area": {
+      "x": 43,
+      "y": 67,
+      "w": 80,
+      "h": 71
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      3,
+      5,
+      179,
+      190
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-002",
+    "name": "樱桃格纹胶带活页纸",
+    "width": 186,
+    "height": 201,
+    "area": {
+      "x": 56,
+      "y": 58,
+      "w": 77,
+      "h": 76
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      169,
+      4,
+      355,
+      205
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-003",
+    "name": "夹子奶油活页纸",
+    "width": 180,
+    "height": 194,
+    "area": {
+      "x": 62,
+      "y": 69,
+      "w": 81,
+      "h": 72
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      348,
+      3,
+      528,
+      197
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-004",
+    "name": "小熊奶油活页纸",
+    "width": 184,
+    "height": 191,
+    "area": {
+      "x": 56,
+      "y": 84,
+      "w": 86,
+      "h": 61
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      518,
+      5,
+      702,
+      196
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-005",
+    "name": "蝴蝶结粉色爱心",
+    "width": 175,
+    "height": 174,
+    "area": {
+      "x": 40,
+      "y": 70,
+      "w": 81,
+      "h": 46
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      686,
+      4,
+      861,
+      178
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-006",
+    "name": "蓝天小花拍立得",
+    "width": 167,
+    "height": 208,
+    "area": {
+      "x": 48,
+      "y": 157,
+      "w": 74,
+      "h": 16
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      849,
+      8,
+      1016,
+      216
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-007",
+    "name": "红色小花粉色花边框",
+    "width": 200,
+    "height": 181,
+    "area": {
+      "x": 48,
+      "y": 59,
+      "w": 95,
+      "h": 58
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      995,
+      6,
+      1195,
+      187
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-008",
+    "name": "绿叶蓝色花边纸",
+    "width": 164,
+    "height": 210,
+    "area": {
+      "x": 43,
+      "y": 70,
+      "w": 73,
+      "h": 72
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1191,
+      5,
+      1355,
+      215
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-009",
+    "name": "郁金香黄色图钉便笺",
+    "width": 177,
+    "height": 198,
+    "area": {
+      "x": 36,
+      "y": 65,
+      "w": 92,
+      "h": 78
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1354,
+      5,
+      1531,
+      203
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-010",
+    "name": "粉色四角星",
+    "width": 55,
+    "height": 61,
+    "area": {
+      "x": 20,
+      "y": 23,
+      "w": 16,
+      "h": 16
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      816,
+      130,
+      871,
+      191
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s06-011",
+    "name": "粉色胶带云框",
+    "width": 225,
+    "height": 146,
+    "area": {
+      "x": 53,
+      "y": 57,
+      "w": 120,
+      "h": 39
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      4,
+      180,
+      229,
+      326
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-012",
+    "name": "郁金香拍立得",
+    "width": 163,
+    "height": 200,
+    "area": {
+      "x": 49,
+      "y": 156,
+      "w": 68,
+      "h": 17
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      217,
+      196,
+      380,
+      396
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-013",
+    "name": "复古邮戳横线纸",
+    "width": 315,
+    "height": 186,
+    "area": {
+      "x": 72,
+      "y": 50,
+      "w": 147,
+      "h": 91
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      369,
+      185,
+      684,
+      371
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-014",
+    "name": "小花黄色方格活页纸",
+    "width": 179,
+    "height": 215,
+    "area": {
+      "x": 60,
+      "y": 59,
+      "w": 78,
+      "h": 102
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      675,
+      169,
+      854,
+      384
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-015",
+    "name": "奶油流星装饰",
+    "width": 108,
+    "height": 88,
+    "area": {
+      "x": 40,
+      "y": 38,
+      "w": 25,
+      "h": 24
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      845,
+      217,
+      953,
+      305
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s06-016",
+    "name": "格纹胶带绿色长标签",
+    "width": 247,
+    "height": 124,
+    "area": {
+      "x": 55,
+      "y": 53,
+      "w": 134,
+      "h": 35
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      944,
+      180,
+      1191,
+      304
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-017",
+    "name": "兔兔粉色横线纸",
+    "width": 191,
+    "height": 160,
+    "area": {
+      "x": 58,
+      "y": 61,
+      "w": 89,
+      "h": 58
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1185,
+      205,
+      1376,
+      365
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-018",
+    "name": "奶油花边横线纸",
+    "width": 170,
+    "height": 158,
+    "area": {
+      "x": 45,
+      "y": 50,
+      "w": 76,
+      "h": 61
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1361,
+      194,
+      1531,
+      352
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-019",
+    "name": "小花撕角奶油便笺",
+    "width": 225,
+    "height": 137,
+    "area": {
+      "x": 48,
+      "y": 55,
+      "w": 109,
+      "h": 40
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      6,
+      303,
+      231,
+      440
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-020",
+    "name": "鼠尾草回形针对话框",
+    "width": 200,
+    "height": 154,
+    "area": {
+      "x": 60,
+      "y": 53,
+      "w": 79,
+      "h": 44
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      225,
+      381,
+      425,
+      535
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-021",
+    "name": "橙色四角星",
+    "width": 54,
+    "height": 60,
+    "area": {
+      "x": 18,
+      "y": 25,
+      "w": 17,
+      "h": 17
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      396,
+      354,
+      450,
+      414
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s06-022",
+    "name": "蓝色星星纸",
+    "width": 137,
+    "height": 141,
+    "area": {
+      "x": 42,
+      "y": 53,
+      "w": 50,
+      "h": 37
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      406,
+      360,
+      543,
+      501
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-023",
+    "name": "猫咪奶油长便笺",
+    "width": 163,
+    "height": 207,
+    "area": {
+      "x": 42,
+      "y": 69,
+      "w": 76,
+      "h": 89
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      534,
+      360,
+      697,
+      567
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-024",
+    "name": "粉色胶带花园方格纸",
+    "width": 171,
+    "height": 134,
+    "area": {
+      "x": 61,
+      "y": 49,
+      "w": 70,
+      "h": 56
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      688,
+      370,
+      859,
+      504
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-025",
+    "name": "花园胶带奶油活页纸",
+    "width": 215,
+    "height": 193,
+    "area": {
+      "x": 54,
+      "y": 61,
+      "w": 95,
+      "h": 73
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      845,
+      293,
+      1060,
+      486
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-026",
+    "name": "紫色邮票方格纸",
+    "width": 139,
+    "height": 178,
+    "area": {
+      "x": 30,
+      "y": 40,
+      "w": 72,
+      "h": 91
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1051,
+      300,
+      1190,
+      478
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-027",
+    "name": "粉色蝴蝶结椭圆",
+    "width": 179,
+    "height": 143,
+    "area": {
+      "x": 45,
+      "y": 61,
+      "w": 77,
+      "h": 37
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1183,
+      359,
+      1362,
+      502
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-028",
+    "name": "奶茶线圈横线本",
+    "width": 179,
+    "height": 163,
+    "area": {
+      "x": 71,
+      "y": 63,
+      "w": 70,
+      "h": 64
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1351,
+      350,
+      1530,
+      513
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-029",
+    "name": "蝴蝶结粉色长标签",
+    "width": 239,
+    "height": 158,
+    "area": {
+      "x": 56,
+      "y": 52,
+      "w": 117,
+      "h": 48
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      4,
+      432,
+      243,
+      590
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-030",
+    "name": "粉色花纹蝴蝶",
+    "width": 124,
+    "height": 113,
+    "area": {
+      "x": 47,
+      "y": 46,
+      "w": 23,
+      "h": 26
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      233,
+      527,
+      357,
+      640
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s06-031",
+    "name": "格纹胶带奶油便笺",
+    "width": 201,
+    "height": 141,
+    "area": {
+      "x": 44,
+      "y": 50,
+      "w": 89,
+      "h": 54
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      346,
+      490,
+      547,
+      631
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-032",
+    "name": "银色线圈本",
+    "width": 148,
+    "height": 178,
+    "area": {
+      "x": 37,
+      "y": 55,
+      "w": 54,
+      "h": 64
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      698,
+      497,
+      846,
+      675
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-033",
+    "name": "小狗粉色长便笺",
+    "width": 193,
+    "height": 107,
+    "area": {
+      "x": 65,
+      "y": 43,
+      "w": 87,
+      "h": 27
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      833,
+      482,
+      1026,
+      589
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-034",
+    "name": "蝴蝶结奶油线圈本",
+    "width": 262,
+    "height": 142,
+    "area": {
+      "x": 76,
+      "y": 65,
+      "w": 136,
+      "h": 43
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1022,
+      476,
+      1284,
+      618
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-035",
+    "name": "回形针绿叶牛皮纸",
+    "width": 250,
+    "height": 152,
+    "area": {
+      "x": 68,
+      "y": 66,
+      "w": 110,
+      "h": 42
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1280,
+      487,
+      1530,
+      639
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-036",
+    "name": "蓝花旅行长标签",
+    "width": 241,
+    "height": 150,
+    "area": {
+      "x": 64,
+      "y": 62,
+      "w": 120,
+      "h": 41
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      5,
+      568,
+      246,
+      718
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-037",
+    "name": "星星小花胶带便笺",
+    "width": 222,
+    "height": 161,
+    "area": {
+      "x": 58,
+      "y": 67,
+      "w": 98,
+      "h": 44
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      233,
+      618,
+      455,
+      779
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-038",
+    "name": "花海胶片拍立得",
+    "width": 124,
+    "height": 183,
+    "area": {
+      "x": 35,
+      "y": 147,
+      "w": 52,
+      "h": 14
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      442,
+      615,
+      566,
+      798
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-039",
+    "name": "黄色花朵造型纸",
+    "width": 166,
+    "height": 135,
+    "area": {
+      "x": 42,
+      "y": 48,
+      "w": 75,
+      "h": 44
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      548,
+      561,
+      714,
+      696
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-040",
+    "name": "花园蝴蝶结花束",
+    "width": 107,
+    "height": 177,
+    "area": {
+      "x": 40,
+      "y": 70,
+      "w": 22,
+      "h": 24
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      785,
+      584,
+      892,
+      761
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s06-041",
+    "name": "鼠尾草胶带横线便笺",
+    "width": 231,
+    "height": 170,
+    "area": {
+      "x": 50,
+      "y": 61,
+      "w": 133,
+      "h": 71
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      854,
+      585,
+      1085,
+      755
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-042",
+    "name": "奶油四角星",
+    "width": 53,
+    "height": 61,
+    "area": {
+      "x": 17,
+      "y": 23,
+      "w": 17,
+      "h": 16
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1079,
+      607,
+      1132,
+      668
+    ],
+    "collection": "pastel",
+    "writing": false
+  },
+  {
+    "id": "note-pastel-s06-043",
+    "name": "兔兔读书奶油云框",
+    "width": 215,
+    "height": 167,
+    "area": {
+      "x": 125,
+      "y": 61,
+      "w": 42,
+      "h": 44
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1076,
+      609,
+      1291,
+      776
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-044",
+    "name": "粉色蝴蝶结长标签",
+    "width": 246,
+    "height": 135,
+    "area": {
+      "x": 61,
+      "y": 59,
+      "w": 114,
+      "h": 39
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1285,
+      628,
+      1531,
+      763
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-045",
+    "name": "蓝色蝴蝶结小花标签",
+    "width": 224,
+    "height": 113,
+    "area": {
+      "x": 53,
+      "y": 36,
+      "w": 120,
+      "h": 38
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      563,
+      685,
+      787,
+      798
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-046",
+    "name": "花园奶油椭圆",
+    "width": 228,
+    "height": 126,
+    "area": {
+      "x": 59,
+      "y": 44,
+      "w": 116,
+      "h": 41
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      4,
+      717,
+      232,
+      843
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-047",
+    "name": "格纹胶带粉色长标签",
+    "width": 223,
+    "height": 134,
+    "area": {
+      "x": 62,
+      "y": 60,
+      "w": 109,
+      "h": 38
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      222,
+      764,
+      445,
+      898
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-048",
+    "name": "相机牛皮横版标签",
+    "width": 292,
+    "height": 100,
+    "area": {
+      "x": 41,
+      "y": 32,
+      "w": 139,
+      "h": 35
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      452,
+      793,
+      744,
+      893
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-049",
+    "name": "星光奶油圆角标签",
+    "width": 221,
+    "height": 106,
+    "area": {
+      "x": 60,
+      "y": 36,
+      "w": 106,
+      "h": 33
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      755,
+      761,
+      976,
+      867
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-050",
+    "name": "花园粉色方格纸",
+    "width": 252,
+    "height": 161,
+    "area": {
+      "x": 61,
+      "y": 61,
+      "w": 125,
+      "h": 46
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      965,
+      747,
+      1217,
+      908
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-051",
+    "name": "猫咪蓝色长标签",
+    "width": 321,
+    "height": 146,
+    "area": {
+      "x": 61,
+      "y": 68,
+      "w": 176,
+      "h": 44
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1210,
+      741,
+      1531,
+      887
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-052",
+    "name": "蓝色格纹胶带花园纸",
+    "width": 219,
+    "height": 187,
+    "area": {
+      "x": 46,
+      "y": 60,
+      "w": 106,
+      "h": 54
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      9,
+      832,
+      228,
+      1019
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-053",
+    "name": "绿叶格纹胶带便笺",
+    "width": 204,
+    "height": 133,
+    "area": {
+      "x": 58,
+      "y": 53,
+      "w": 95,
+      "h": 40
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      220,
+      886,
+      424,
+      1019
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-054",
+    "name": "小狗奶油线圈长便笺",
+    "width": 326,
+    "height": 137,
+    "area": {
+      "x": 59,
+      "y": 64,
+      "w": 196,
+      "h": 36
+    },
+    "list": null,
+    "ruled": true,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      419,
+      881,
+      745,
+      1018
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-055",
+    "name": "粉色格纹爱心",
+    "width": 197,
+    "height": 159,
+    "area": {
+      "x": 50,
+      "y": 61,
+      "w": 96,
+      "h": 41
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      736,
+      861,
+      933,
+      1020
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-056",
+    "name": "蓝色花园撕边长标签",
+    "width": 265,
+    "height": 127,
+    "area": {
+      "x": 62,
+      "y": 47,
+      "w": 118,
+      "h": 30
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      924,
+      886,
+      1189,
+      1013
+    ],
+    "collection": "pastel",
+    "writing": true
+  },
+  {
+    "id": "note-pastel-s06-057",
+    "name": "胶带奶油弯曲缎带",
+    "width": 349,
+    "height": 134,
+    "area": {
+      "x": 93,
+      "y": 52,
+      "w": 175,
+      "h": 38
+    },
+    "list": null,
+    "ruled": false,
+    "rows": 1,
+    "source": "Pastel Stationery Sticker Collage-6.png",
+    "sourceSha256": "3f4c095529bf5c1b101e2ab7faf863a3e2dd442a226bbae932e145abec17bc56",
+    "sourceBox": [
+      1182,
+      880,
+      1531,
+      1014
+    ],
+    "collection": "pastel",
+    "writing": true
+  }
+]

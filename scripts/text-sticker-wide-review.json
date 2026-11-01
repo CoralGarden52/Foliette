@@ -1,0 +1,2311 @@
+{
+  "version": 1,
+  "description": "Reviewed individual sticker regions and conservative writable rectangles. Coordinates are native source pixels; boxes use exclusive right/bottom. Each connected design, including layered paper, is one sticker.",
+  "sheets": [
+    {
+      "sheet": 1,
+      "source": "ChatGPT Image Oct 19, 2026, 10_14_18 AM-1.png",
+      "expectedCount": 41,
+      "stickers": [
+        {
+          "id": "note-wide-s01-001",
+          "name": "双线奶油长签",
+          "box": [
+            21,
+            15,
+            492,
+            129
+          ],
+          "safe": [
+            52,
+            49,
+            365,
+            39
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-002",
+          "name": "雾蓝分隔长签",
+          "box": [
+            508,
+            17,
+            946,
+            131
+          ],
+          "safe": [
+            541,
+            47,
+            250,
+            40
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-003",
+          "name": "灰褐分隔长签",
+          "box": [
+            962,
+            16,
+            1432,
+            131
+          ],
+          "safe": [
+            995,
+            49,
+            337,
+            38
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-004",
+          "name": "折角横线便签",
+          "box": [
+            21,
+            136,
+            236,
+            323
+          ],
+          "safe": [
+            45,
+            211,
+            160,
+            70
+          ],
+          "list": null,
+          "ruled": true
+        },
+        {
+          "id": "note-wide-s01-005",
+          "checkArea": {
+            "x": 17,
+            "y": 70,
+            "w": 12,
+            "h": 93
+          },
+          "name": "奶油圆点清单",
+          "box": [
+            244,
+            137,
+            474,
+            326
+          ],
+          "safe": [
+            282,
+            198,
+            153,
+            101
+          ],
+          "list": "circle",
+          "ruled": true
+        },
+        {
+          "id": "note-wide-s01-006",
+          "name": "鼠尾草方格纸",
+          "box": [
+            484,
+            138,
+            696,
+            324
+          ],
+          "safe": [
+            509,
+            204,
+            153,
+            88
+          ],
+          "list": null,
+          "ruled": true
+        },
+        {
+          "id": "note-wide-s01-007",
+          "name": "雾蓝页眉便签",
+          "box": [
+            705,
+            141,
+            919,
+            328
+          ],
+          "safe": [
+            731,
+            192,
+            157,
+            99
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-008",
+          "name": "米色票根",
+          "box": [
+            925,
+            144,
+            1186,
+            299
+          ],
+          "safe": [
+            981,
+            174,
+            140,
+            91
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-009",
+          "name": "炭黑票根",
+          "box": [
+            1190,
+            146,
+            1432,
+            295
+          ],
+          "safe": [
+            1222,
+            177,
+            166,
+            76
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-010",
+          "name": "奶油窄标签",
+          "box": [
+            21,
+            331,
+            249,
+            410
+          ],
+          "safe": [
+            72,
+            353,
+            150,
+            32
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-011",
+          "name": "鼠尾草凹口标签",
+          "box": [
+            260,
+            334,
+            496,
+            410
+          ],
+          "safe": [
+            281,
+            352,
+            174,
+            33
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-012",
+          "name": "奶油箭头签",
+          "box": [
+            507,
+            334,
+            734,
+            412
+          ],
+          "safe": [
+            532,
+            353,
+            159,
+            33
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-013",
+          "name": "雾蓝箭头签",
+          "box": [
+            745,
+            334,
+            956,
+            409
+          ],
+          "safe": [
+            771,
+            351,
+            143,
+            33
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-014",
+          "name": "编号吊牌01",
+          "box": [
+            970,
+            308,
+            1049,
+            413
+          ],
+          "safe": [
+            984,
+            341,
+            47,
+            16
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-015",
+          "name": "编号吊牌02",
+          "box": [
+            1061,
+            309,
+            1139,
+            416
+          ],
+          "safe": [
+            1078,
+            341,
+            44,
+            16
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-016",
+          "name": "编号吊牌03",
+          "box": [
+            1153,
+            308,
+            1232,
+            416
+          ],
+          "safe": [
+            1170,
+            341,
+            44,
+            16
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-017",
+          "name": "编号吊牌04",
+          "box": [
+            1246,
+            308,
+            1328,
+            415
+          ],
+          "safe": [
+            1263,
+            341,
+            44,
+            16
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-018",
+          "name": "编号吊牌05",
+          "box": [
+            1343,
+            307,
+            1425,
+            412
+          ],
+          "safe": [
+            1360,
+            341,
+            44,
+            16
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-019",
+          "name": "黑线折角框",
+          "box": [
+            21,
+            418,
+            294,
+            555
+          ],
+          "safe": [
+            62,
+            452,
+            183,
+            65
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-020",
+          "name": "灰蓝圆角框",
+          "box": [
+            304,
+            421,
+            490,
+            551
+          ],
+          "safe": [
+            335,
+            452,
+            123,
+            67
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-021",
+          "name": "虚线圆角框",
+          "box": [
+            496,
+            420,
+            690,
+            551
+          ],
+          "safe": [
+            524,
+            448,
+            132,
+            69
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-022",
+          "name": "鼠尾草八角框",
+          "box": [
+            698,
+            420,
+            914,
+            552
+          ],
+          "safe": [
+            740,
+            449,
+            129,
+            68
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-023",
+          "name": "奶油圆形",
+          "box": [
+            923,
+            424,
+            1050,
+            552
+          ],
+          "safe": [
+            954,
+            466,
+            64,
+            42
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-024",
+          "name": "雾蓝圆形",
+          "box": [
+            1054,
+            423,
+            1181,
+            554
+          ],
+          "safe": [
+            1086,
+            466,
+            64,
+            42
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-025",
+          "name": "鼠尾草圆形",
+          "box": [
+            1182,
+            424,
+            1309,
+            554
+          ],
+          "safe": [
+            1216,
+            466,
+            62,
+            42
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-026",
+          "name": "炭黑圆形",
+          "box": [
+            1311,
+            427,
+            1431,
+            550
+          ],
+          "safe": [
+            1342,
+            466,
+            60,
+            42
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-027",
+          "name": "奶油撕边便签",
+          "box": [
+            21,
+            559,
+            300,
+            779
+          ],
+          "safe": [
+            49,
+            622,
+            218,
+            103
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-028",
+          "name": "雾蓝拍立得纸",
+          "box": [
+            310,
+            557,
+            523,
+            808
+          ],
+          "safe": [
+            341,
+            594,
+            145,
+            139
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-029",
+          "name": "奶油折角方格纸",
+          "box": [
+            534,
+            558,
+            732,
+            792
+          ],
+          "safe": [
+            559,
+            590,
+            136,
+            164
+          ],
+          "list": null,
+          "ruled": true
+        },
+        {
+          "id": "note-wide-s01-030",
+          "name": "圆孔文件纸",
+          "box": [
+            743,
+            558,
+            1031,
+            785
+          ],
+          "safe": [
+            775,
+            624,
+            222,
+            129
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-031",
+          "name": "鼠尾草拱门纸",
+          "box": [
+            1041,
+            555,
+            1257,
+            785
+          ],
+          "safe": [
+            1081,
+            633,
+            130,
+            121
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-032",
+          "name": "奶油圆孔拱门纸",
+          "box": [
+            1268,
+            561,
+            1432,
+            786
+          ],
+          "safe": [
+            1295,
+            650,
+            106,
+            86
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-033",
+          "name": "雾蓝对话框",
+          "box": [
+            21,
+            797,
+            246,
+            925
+          ],
+          "safe": [
+            52,
+            824,
+            161,
+            51
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-034",
+          "name": "奶油圆角对话框",
+          "box": [
+            254,
+            815,
+            569,
+            924
+          ],
+          "safe": [
+            291,
+            841,
+            219,
+            39
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-035",
+          "name": "黑框对话框",
+          "box": [
+            580,
+            800,
+            817,
+            930
+          ],
+          "safe": [
+            610,
+            831,
+            175,
+            46
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-036",
+          "name": "米色宽票根",
+          "box": [
+            838,
+            793,
+            1163,
+            925
+          ],
+          "safe": [
+            920,
+            822,
+            208,
+            70
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-037",
+          "name": "雾蓝宽票根",
+          "box": [
+            1184,
+            795,
+            1430,
+            925
+          ],
+          "safe": [
+            1230,
+            825,
+            139,
+            66
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-038",
+          "name": "鼠尾草圆点长签",
+          "box": [
+            18,
+            936,
+            409,
+            1034
+          ],
+          "safe": [
+            122,
+            962,
+            242,
+            37
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-039",
+          "name": "米色双尖长签",
+          "box": [
+            417,
+            936,
+            725,
+            1029
+          ],
+          "safe": [
+            483,
+            965,
+            181,
+            35
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-040",
+          "name": "雾蓝分隔圆角签",
+          "box": [
+            735,
+            939,
+            1087,
+            1034
+          ],
+          "safe": [
+            777,
+            967,
+            220,
+            35
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s01-041",
+          "name": "炭黑色块长签",
+          "box": [
+            1090,
+            933,
+            1433,
+            1033
+          ],
+          "safe": [
+            1204,
+            965,
+            193,
+            35
+          ],
+          "list": null,
+          "ruled": false
+        }
+      ]
+    },
+    {
+      "sheet": 2,
+      "source": "ChatGPT Image Oct 19, 2026, 10_14_20 AM-2.png",
+      "expectedCount": 27,
+      "stickers": [
+        {
+          "id": "note-wide-s02-001",
+          "name": "冰蓝星光对话框",
+          "box": [
+            15,
+            18,
+            367,
+            187
+          ],
+          "safe": [
+            80,
+            64,
+            213,
+            64
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-002",
+          "name": "紫色爱心对话框",
+          "box": [
+            374,
+            7,
+            690,
+            190
+          ],
+          "safe": [
+            436,
+            78,
+            202,
+            52
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-003",
+          "name": "虹彩云朵",
+          "box": [
+            696,
+            6,
+            1023,
+            190
+          ],
+          "safe": [
+            752,
+            84,
+            190,
+            47
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-004",
+          "name": "粉色玻璃窗口",
+          "box": [
+            1030,
+            14,
+            1431,
+            173
+          ],
+          "safe": [
+            1071,
+            88,
+            269,
+            48
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-005",
+          "name": "粉色玻璃爱心",
+          "box": [
+            11,
+            196,
+            211,
+            358
+          ],
+          "safe": [
+            66,
+            256,
+            80,
+            41
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-006",
+          "name": "冰蓝行星",
+          "box": [
+            206,
+            193,
+            557,
+            356
+          ],
+          "safe": [
+            272,
+            240,
+            187,
+            54
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-007",
+          "name": "虹彩爆炸框",
+          "box": [
+            538,
+            171,
+            803,
+            364
+          ],
+          "safe": [
+            611,
+            252,
+            111,
+            40
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-008",
+          "name": "粉紫波浪星框",
+          "box": [
+            810,
+            180,
+            1152,
+            362
+          ],
+          "safe": [
+            857,
+            249,
+            201,
+            64
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-009",
+          "name": "虹彩吊牌",
+          "box": [
+            1149,
+            187,
+            1435,
+            354
+          ],
+          "safe": [
+            1210,
+            247,
+            154,
+            45
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-010",
+          "name": "蓝紫星星长签",
+          "box": [
+            14,
+            355,
+            407,
+            490
+          ],
+          "safe": [
+            143,
+            409,
+            211,
+            43
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-011",
+          "name": "紫色爱心长签",
+          "box": [
+            418,
+            361,
+            696,
+            498
+          ],
+          "safe": [
+            457,
+            407,
+            174,
+            34
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-012",
+          "name": "虹彩金属铭牌",
+          "box": [
+            705,
+            365,
+            1101,
+            512
+          ],
+          "safe": [
+            795,
+            418,
+            214,
+            48
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-013",
+          "name": "冰蓝星光云朵",
+          "box": [
+            1111,
+            356,
+            1436,
+            511
+          ],
+          "safe": [
+            1180,
+            404,
+            175,
+            58
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-014",
+          "name": "虹彩浏览器便签",
+          "box": [
+            17,
+            501,
+            282,
+            681
+          ],
+          "safe": [
+            49,
+            568,
+            173,
+            69
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-015",
+          "name": "虹彩文件夹",
+          "box": [
+            295,
+            505,
+            569,
+            681
+          ],
+          "safe": [
+            340,
+            565,
+            157,
+            66
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-016",
+          "name": "粉色环绕行星",
+          "box": [
+            571,
+            517,
+            912,
+            682
+          ],
+          "safe": [
+            647,
+            564,
+            140,
+            54
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-017",
+          "name": "冰蓝双箭头签",
+          "box": [
+            920,
+            523,
+            1268,
+            653
+          ],
+          "safe": [
+            965,
+            562,
+            171,
+            49
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-018",
+          "name": "冰蓝竖向行星",
+          "box": [
+            1248,
+            500,
+            1438,
+            696
+          ],
+          "safe": [
+            1306,
+            541,
+            72,
+            64
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-019",
+          "name": "回形针星光便签",
+          "box": [
+            18,
+            683,
+            358,
+            871
+          ],
+          "safe": [
+            81,
+            739,
+            205,
+            91
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-020",
+          "name": "虹彩波浪框",
+          "box": [
+            368,
+            695,
+            742,
+            866
+          ],
+          "safe": [
+            449,
+            744,
+            205,
+            64
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-021",
+          "name": "虹彩方格吊牌",
+          "box": [
+            751,
+            696,
+            1035,
+            855
+          ],
+          "safe": [
+            799,
+            732,
+            169,
+            80
+          ],
+          "list": null,
+          "ruled": true
+        },
+        {
+          "id": "note-wide-s02-022",
+          "name": "粉紫玻璃星星",
+          "box": [
+            1039,
+            661,
+            1234,
+            855
+          ],
+          "safe": [
+            1097,
+            746,
+            78,
+            49
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-023",
+          "name": "冰蓝圆形行星",
+          "box": [
+            1221,
+            704,
+            1443,
+            889
+          ],
+          "safe": [
+            1284,
+            758,
+            84,
+            39
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-024",
+          "name": "爱心玻璃长签",
+          "box": [
+            18,
+            884,
+            370,
+            1015
+          ],
+          "safe": [
+            65,
+            919,
+            250,
+            30
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-025",
+          "name": "星光螺旋长签",
+          "box": [
+            382,
+            878,
+            734,
+            1017
+          ],
+          "safe": [
+            470,
+            932,
+            195,
+            47
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-026",
+          "name": "冰蓝标签窗口",
+          "box": [
+            747,
+            873,
+            1028,
+            1031
+          ],
+          "safe": [
+            789,
+            934,
+            184,
+            50
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s02-027",
+          "name": "粉色星光椭圆",
+          "box": [
+            1041,
+            882,
+            1424,
+            1027
+          ],
+          "safe": [
+            1121,
+            932,
+            204,
+            48
+          ],
+          "list": null,
+          "ruled": false
+        }
+      ]
+    },
+    {
+      "sheet": 3,
+      "source": "ChatGPT Image Oct 19, 2026, 10_14_22 AM-3.png",
+      "expectedCount": 34,
+      "stickers": [
+        {
+          "id": "note-wide-s03-001",
+          "name": "复古编号票券",
+          "box": [
+            14,
+            14,
+            301,
+            159
+          ],
+          "safe": [
+            90,
+            48,
+            132,
+            66
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-002",
+          "name": "珊瑚双线票券",
+          "box": [
+            303,
+            13,
+            584,
+            158
+          ],
+          "safe": [
+            352,
+            50,
+            174,
+            65
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-003",
+          "name": "橄榄编号票券",
+          "box": [
+            589,
+            13,
+            877,
+            158
+          ],
+          "safe": [
+            641,
+            50,
+            135,
+            65
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-004",
+          "name": "飞机邮戳明信片",
+          "box": [
+            886,
+            13,
+            1181,
+            161
+          ],
+          "safe": [
+            920,
+            96,
+            164,
+            39
+          ],
+          "list": null,
+          "ruled": true
+        },
+        {
+          "id": "note-wide-s03-005",
+          "name": "红框凹口票券",
+          "box": [
+            1189,
+            12,
+            1440,
+            161
+          ],
+          "safe": [
+            1246,
+            47,
+            134,
+            72
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-006",
+          "name": "麻绳牛皮吊牌",
+          "box": [
+            17,
+            155,
+            190,
+            389
+          ],
+          "safe": [
+            41,
+            265,
+            104,
+            84
+          ],
+          "list": null,
+          "ruled": true,
+          "reviewNote": "Rope designs have overlapping rectangular bounds; retain only the primary connected silhouette to exclude the adjacent tag."
+        },
+        {
+          "id": "note-wide-s03-007",
+          "name": "麻绳横线吊牌",
+          "box": [
+            175,
+            162,
+            349,
+            388
+          ],
+          "safe": [
+            231,
+            267,
+            101,
+            91
+          ],
+          "list": null,
+          "ruled": true,
+          "reviewNote": "Rope designs have overlapping rectangular bounds; retain only the primary connected silhouette to exclude the adjacent tag."
+        },
+        {
+          "id": "note-wide-s03-008",
+          "name": "珊瑚植物吊牌",
+          "box": [
+            366,
+            162,
+            519,
+            384
+          ],
+          "safe": [
+            387,
+            230,
+            61,
+            109
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-009",
+          "name": "牛仔蓝吊牌",
+          "box": [
+            535,
+            166,
+            693,
+            394
+          ],
+          "safe": [
+            559,
+            232,
+            106,
+            125
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-010",
+          "name": "花朵邮票",
+          "box": [
+            707,
+            183,
+            875,
+            383
+          ],
+          "safe": [
+            737,
+            214,
+            40,
+            56
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-011",
+          "name": "山水邮票",
+          "box": [
+            893,
+            175,
+            1066,
+            381
+          ],
+          "safe": [
+            925,
+            207,
+            105,
+            32
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-012",
+          "name": "橄榄装饰邮票",
+          "box": [
+            1075,
+            175,
+            1255,
+            382
+          ],
+          "safe": [
+            1110,
+            226,
+            105,
+            112
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-013",
+          "name": "珊瑚花卉邮票",
+          "box": [
+            1265,
+            175,
+            1436,
+            382
+          ],
+          "safe": [
+            1294,
+            210,
+            70,
+            22
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-014",
+          "name": "邮戳明信片",
+          "box": [
+            15,
+            399,
+            325,
+            569
+          ],
+          "safe": [
+            42,
+            469,
+            116,
+            66
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-015",
+          "name": "航空信封",
+          "box": [
+            331,
+            398,
+            626,
+            568
+          ],
+          "safe": [
+            430,
+            438,
+            155,
+            81
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-016",
+          "name": "花朵复古标签",
+          "box": [
+            636,
+            408,
+            888,
+            549
+          ],
+          "safe": [
+            722,
+            445,
+            124,
+            65
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-017",
+          "name": "撕边横线笔记",
+          "box": [
+            901,
+            395,
+            1190,
+            563
+          ],
+          "safe": [
+            971,
+            438,
+            174,
+            92
+          ],
+          "list": null,
+          "ruled": true
+        },
+        {
+          "id": "note-wide-s03-018",
+          "name": "牛仔蓝八角框",
+          "box": [
+            1199,
+            395,
+            1439,
+            546
+          ],
+          "safe": [
+            1245,
+            430,
+            148,
+            77
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-019",
+          "name": "复古账本长纸",
+          "box": [
+            17,
+            572,
+            180,
+            849
+          ],
+          "safe": [
+            88,
+            658,
+            65,
+            152
+          ],
+          "list": null,
+          "ruled": true
+        },
+        {
+          "id": "note-wide-s03-020",
+          "name": "牛皮圆孔编号签",
+          "box": [
+            184,
+            580,
+            486,
+            691
+          ],
+          "safe": [
+            286,
+            655,
+            148,
+            15
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-021",
+          "name": "牛皮撕边方格纸",
+          "box": [
+            493,
+            573,
+            765,
+            706
+          ],
+          "safe": [
+            519,
+            597,
+            211,
+            83
+          ],
+          "list": null,
+          "ruled": true
+        },
+        {
+          "id": "note-wide-s03-022",
+          "name": "牛皮编号小签",
+          "box": [
+            769,
+            583,
+            973,
+            689
+          ],
+          "safe": [
+            839,
+            618,
+            84,
+            22
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-023",
+          "name": "橄榄植物双联票",
+          "box": [
+            980,
+            573,
+            1199,
+            691
+          ],
+          "safe": [
+            1002,
+            601,
+            58,
+            62
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-024",
+          "name": "牛皮双线八角框",
+          "box": [
+            1206,
+            558,
+            1439,
+            698
+          ],
+          "safe": [
+            1250,
+            595,
+            140,
+            67
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-025",
+          "name": "牛仔蓝三星票",
+          "box": [
+            187,
+            702,
+            404,
+            849
+          ],
+          "safe": [
+            236,
+            740,
+            118,
+            52
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-026",
+          "name": "GOOD FOR星星票",
+          "box": [
+            416,
+            711,
+            663,
+            859
+          ],
+          "safe": [
+            453,
+            764,
+            164,
+            37
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-027",
+          "name": "红框打孔票",
+          "box": [
+            674,
+            710,
+            924,
+            859
+          ],
+          "safe": [
+            716,
+            753,
+            129,
+            66
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-028",
+          "name": "编号72403票",
+          "box": [
+            926,
+            712,
+            1178,
+            854
+          ],
+          "safe": [
+            971,
+            747,
+            120,
+            63
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-029",
+          "name": "珊瑚花边椭圆",
+          "box": [
+            1191,
+            695,
+            1438,
+            872
+          ],
+          "safe": [
+            1249,
+            747,
+            139,
+            75
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-030",
+          "name": "回形针横线纸",
+          "box": [
+            17,
+            848,
+            274,
+            1062
+          ],
+          "safe": [
+            70,
+            906,
+            164,
+            108
+          ],
+          "list": null,
+          "ruled": true
+        },
+        {
+          "id": "note-wide-s03-031",
+          "name": "地球邮政标签",
+          "box": [
+            274,
+            882,
+            576,
+            1021
+          ],
+          "safe": [
+            414,
+            918,
+            122,
+            24
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-032",
+          "name": "胶带复古叠纸",
+          "box": [
+            581,
+            864,
+            861,
+            1058
+          ],
+          "safe": [
+            624,
+            925,
+            173,
+            61
+          ],
+          "list": null,
+          "ruled": false,
+          "reviewNote": "Layered paper and tape form one connected composite sticker; the lower layers have no recoverable hidden pixels."
+        },
+        {
+          "id": "note-wide-s03-033",
+          "name": "星星撕边票",
+          "box": [
+            865,
+            869,
+            1159,
+            1043
+          ],
+          "safe": [
+            949,
+            907,
+            142,
+            96
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s03-034",
+          "name": "复古圆形邮戳纸",
+          "box": [
+            1171,
+            871,
+            1436,
+            1054
+          ],
+          "safe": [
+            1304,
+            905,
+            98,
+            30
+          ],
+          "list": null,
+          "ruled": false
+        }
+      ]
+    },
+    {
+      "sheet": 4,
+      "source": "ChatGPT Image Oct 19, 2026, 10_14_24 AM-4.png",
+      "expectedCount": 24,
+      "stickers": [
+        {
+          "id": "note-wide-s04-001",
+          "name": "白花胶带撕纸",
+          "box": [
+            11,
+            7,
+            302,
+            230
+          ],
+          "safe": [
+            122,
+            64,
+            140,
+            97
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-002",
+          "name": "粉花撕边纸",
+          "box": [
+            309,
+            8,
+            570,
+            230
+          ],
+          "safe": [
+            342,
+            67,
+            127,
+            118
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-003",
+          "name": "花园圆形花环",
+          "box": [
+            576,
+            6,
+            896,
+            234
+          ],
+          "safe": [
+            650,
+            81,
+            159,
+            77
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-004",
+          "name": "月夜云朵",
+          "box": [
+            903,
+            6,
+            1229,
+            216
+          ],
+          "safe": [
+            984,
+            110,
+            166,
+            51
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-005",
+          "name": "薰衣草山景邮票",
+          "box": [
+            1238,
+            7,
+            1438,
+            242
+          ],
+          "safe": [
+            1269,
+            89,
+            92,
+            42
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-006",
+          "name": "薰衣草吊牌",
+          "box": [
+            9,
+            227,
+            161,
+            458
+          ],
+          "safe": [
+            95,
+            291,
+            44,
+            99
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-007",
+          "name": "铃兰绿框长签",
+          "box": [
+            174,
+            238,
+            522,
+            424
+          ],
+          "safe": [
+            332,
+            281,
+            139,
+            98
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-008",
+          "name": "雏菊回形针横线纸",
+          "box": [
+            533,
+            222,
+            889,
+            411
+          ],
+          "safe": [
+            579,
+            290,
+            204,
+            69
+          ],
+          "list": null,
+          "ruled": true
+        },
+        {
+          "id": "note-wide-s04-009",
+          "name": "粉色卷轴缎带",
+          "box": [
+            900,
+            212,
+            1234,
+            334
+          ],
+          "safe": [
+            975,
+            253,
+            174,
+            42
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-010",
+          "name": "勿忘我蓝框标签",
+          "box": [
+            1232,
+            248,
+            1442,
+            390
+          ],
+          "safe": [
+            1264,
+            284,
+            115,
+            63
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-011",
+          "name": "勿忘我云朵纸",
+          "box": [
+            9,
+            441,
+            362,
+            633
+          ],
+          "safe": [
+            123,
+            494,
+            165,
+            82
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-012",
+          "name": "蝴蝶虚线票",
+          "box": [
+            371,
+            431,
+            614,
+            554
+          ],
+          "safe": [
+            408,
+            465,
+            109,
+            57
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-013",
+          "name": "勿忘我椭圆",
+          "box": [
+            630,
+            407,
+            940,
+            619
+          ],
+          "safe": [
+            711,
+            466,
+            136,
+            77
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-014",
+          "name": "蝴蝶结心形花纸",
+          "box": [
+            933,
+            335,
+            1238,
+            600
+          ],
+          "safe": [
+            1051,
+            428,
+            103,
+            84
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-015",
+          "name": "郁金香邮戳邮票",
+          "box": [
+            1221,
+            396,
+            1430,
+            590
+          ],
+          "safe": [
+            1277,
+            439,
+            64,
+            72
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-016",
+          "name": "绿叶拼贴撕纸",
+          "box": [
+            3,
+            632,
+            353,
+            795
+          ],
+          "safe": [
+            121,
+            664,
+            183,
+            57
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-017",
+          "name": "薰衣草蝴蝶结圆签",
+          "box": [
+            355,
+            562,
+            586,
+            812
+          ],
+          "safe": [
+            451,
+            622,
+            73,
+            87
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-018",
+          "name": "白花蜡封长签",
+          "box": [
+            585,
+            603,
+            904,
+            790
+          ],
+          "safe": [
+            714,
+            653,
+            132,
+            75
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-019",
+          "name": "常春藤小屋",
+          "box": [
+            914,
+            572,
+            1106,
+            788
+          ],
+          "safe": [
+            972,
+            681,
+            99,
+            46
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-020",
+          "name": "绿叶图钉蓝纸",
+          "box": [
+            1114,
+            590,
+            1446,
+            785
+          ],
+          "safe": [
+            1151,
+            651,
+            194,
+            66
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-021",
+          "name": "金合欢拼贴信纸",
+          "box": [
+            9,
+            800,
+            406,
+            1059
+          ],
+          "safe": [
+            156,
+            884,
+            163,
+            108
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-022",
+          "name": "绿叶星光曲线框",
+          "box": [
+            422,
+            791,
+            747,
+            1057
+          ],
+          "safe": [
+            528,
+            867,
+            153,
+            117
+          ],
+          "list": null,
+          "ruled": false
+        },
+        {
+          "id": "note-wide-s04-023",
+          "name": "白花撕边活页纸",
+          "box": [
+            751,
+            791,
+            1020,
+            1066
+          ],
+          "safe": [
+            779,
+            837,
+            119,
+            171
+          ],
+          "list": null,
+          "ruled": true
+        },
+        {
+          "id": "note-wide-s04-024",
+          "name": "薰衣草复古装饰框",
+          "box": [
+            1028,
+            788,
+            1443,
+            1058
+          ],
+          "safe": [
+            1139,
+            853,
+            202,
+            142
+          ],
+          "list": null,
+          "ruled": false
+        }
+      ]
+    }
+  ]
+}

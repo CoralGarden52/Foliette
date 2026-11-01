@@ -1,0 +1,114 @@
+{
+  "1": {
+    "category": "garden",
+    "overrides": {"9":"hearts","10":"hearts","19":"hearts","22":"hearts","25":"hearts","33":"hearts","45":"hearts","46":"hearts","48":"hearts","49":"hearts","54":"hearts","69":"hearts","74":"hearts","75":"hearts"},
+    "split": {
+      "56": {"parts":[{"name":"三色堇小花","box":[460,1020,560,1150]},{"name":"粉色花瓣","box":[645,1050,730,1110]},{"name":"奶白小花","box":[730,1060,800,1140]}],"rest":"常春藤枝蔓"},
+      "63": {"parts":[{"name":"含苞郁金香枝叶","box":[0,1080,100,1248]},{"name":"散落的花瓣","box":[99,1180,169,1248]},{"name":"小叶藤枝","box":[166,1125,257,1248]}],"rest":"花园木推车"}
+    }
+  },
+  "2": {
+    "category":"garden",
+    "overrides":{"25":"hearts","27":"hearts","30":"hearts","34":"hearts","36":"hearts","38":"hearts","40":"hearts","44":"hearts","46":"hearts","47":"hearts","51":"hearts","53":"hearts","56":"hearts","57":"hearts"},
+    "split":{
+      "5":{"parts":[{"name":"粉色小花","box":[850,350,930,425]}],"rest":"春日花束"},
+      "43":{"parts":[{"name":"浅绿小花","box":[610,780,679,862]}],"rest":"浅粉小花"}
+    }
+  },
+  "3": {
+    "category":"garden",
+    "drop":["014-1","036-1"],
+    "overrides":{"9":"hearts","21":"hearts","25":"hearts","26":"hearts","27":"hearts","34":"hearts","42":"hearts"},
+    "split":{
+      "1":{"parts":[{"name":"迷你向日葵","box":[0,0,57,81]}],"rest":"明亮向日葵"},
+      "3":{"parts":[{"name":"橄榄绿叶","box":[490,0,545,82]},{"name":"小簇蓝绣球","polygon":[[459,280],[500,255],[595,255],[595,400],[459,400]]}],"rest":"蓝色绣球花枝"},
+      "14":{"parts":[{"name":"空陶花盆","box":[928,601,1035,705]},{"name":"迷你陶花盆","box":[887,548,946,602]},{"name":"白雏菊盆栽","polygon":[[815,320],[940,320],[939,444],[922,565],[815,565]]}],"rest":"花园雏菊盆栽"},
+      "24":{"parts":[{"name":"幸运四叶草","box":[0,640,104,766]},{"name":"白雏菊小花","box":[102,732,160,803]}],"rest":"草莓花枝"},
+      "30":{"parts":[{"name":"橄榄单叶","box":[1025,620,1090,674]}],"rest":"珊瑚粉小花"},
+      "36":{"parts":[{"name":"淡蓝小花","box":[340,801,414,870]}],"rest":"心形绿叶"},
+      "40":{"parts":[{"name":"三张植物卡片","category":"hearts","polygon":[[800,1000],[956,1050],[1065,1130],[1065,1248],[800,1248]]},{"name":"小叶枝","box":[724,970,809,1054]}],"rest":"玫瑰花园拱门"},
+      "43":{"parts":[{"name":"金色小玫瑰","box":[622,1105,711,1190]},{"name":"橄榄细枝","polygon":[[537,960],[628,960],[628,1111],[621,1248],[552,1248]]}],"rest":"尤加利长枝"},
+      "47":{"parts":[{"name":"橄榄单叶","box":[421,1142,486,1230]},{"name":"花园小铲","polygon":[[183,1088],[226,1088],[349,1194],[354,1248],[282,1248],[183,1140]]}],"rest":"薰衣草布袋"}
+    }
+  },
+  "4": {
+    "category":"tea",
+    "skip":[2,9,17,19,26,44,47],
+    "overrides":{"3":"hearts","12":"garden","13":"garden","20":"garden","22":"hearts","23":"hearts","25":"garden","28":"garden","29":"hearts","30":"garden","35":"hearts","37":"garden","38":"hearts","43":"garden","46":"hearts","48":"hearts","52":"garden","53":"hearts","55":"hearts","56":"hearts","57":"hearts","58":"hearts"},
+    "split":{
+      "11":{"parts":[{"name":"巧克力曲奇","box":[430,170,566,312]}],"rest":"爱心果酱饼干"},
+      "18":{"parts":[{"name":"黄油可颂","polygon":[[20,235],[310,235],[310,359],[222,388],[150,404],[93,443],[20,447]]}],"rest":"莓果松饼"},
+      "27":{"parts":[{"name":"樱桃焦糖布丁","box":[918,482,1248,720]},{"name":"玫瑰花茶壶","box":[979,719,1248,929]},{"name":"蕾丝格纹餐巾","category":"hearts","box":[1017,929,1248,1082]}],"rest":"花瓷糖罐"},
+      "34":{"parts":[{"name":"草莓与蓝莓","box":[545,650,650,745]}],"rest":"浅粉蝴蝶结","category":"hearts"},
+      "36":{"parts":[{"name":"蝴蝶结金叉","category":"hearts","box":[0,701,76,958]}],"rest":"蓝莓芝士蛋糕"},
+      "40":{"parts":[{"name":"牛奶玻璃瓶","box":[722,916,872,1215]}],"rest":"花瓷拿铁"},
+      "50":{"parts":[{"name":"白色小花枝","category":"garden","box":[310,1023,423,1150]}],"rest":"樱桃冰淇淋杯"},
+      "51":{"parts":[{"name":"爱心与棋盘饼干","box":[571,1147,728,1244]}],"rest":"蝴蝶结巧克力曲奇"},
+      "54":{"parts":[{"name":"一颗蓝莓","box":[16,1080,68,1132]}],"rest":"圆圆蓝莓"}
+    }
+  },
+  "5": {
+    "category":"tea",
+    "skip":[6,10,14,16,33,39,40],
+    "overrides":{"17":"hearts","19":"hearts","23":"hearts","24":"hearts","25":"hearts","27":"hearts","28":"hearts","29":"hearts","30":"hearts","32":"hearts","37":"hearts","45":"garden","50":"hearts","52":"hearts","53":"hearts"},
+    "split":{
+      "13":{"parts":[{"name":"蜂蜜与蜂蜜勺","box":[922,516,1092,697]},{"name":"小小爱心","category":"hearts","box":[667,380,728,445]}],"rest":"花瓷曲奇铁盒"},
+      "20":{"parts":[{"name":"花瓷奶罐","box":[238,547,389,672]}],"rest":"花瓷玫瑰茶壶"},
+      "34":{"parts":[{"name":"奶白蕾丝餐巾","category":"hearts","polygon":[[260,818],[580,818],[592,856],[447,1006],[260,966]]}],"rest":"粉色格纹餐巾","category":"hearts"},
+      "38":{"parts":[{"name":"午睡小猫","category":"hearts","box":[950,1108,1247,1237]}],"rest":"街角茶歇小店"},
+      "46":{"parts":[{"name":"小簇白花","category":"garden","box":[540,1117,670,1237]}],"rest":"咖啡店小黑板"},
+      "49":{"parts":[{"name":"丝带结","category":"hearts","box":[519,1049,640,1113]}],"rest":"咖啡豆"}
+    }
+  },
+  "6": {
+    "category":"travel",
+    "skip":[5,6,8,15,27,30,32],
+    "overrides":{"12":"hearts","18":"hearts","19":"garden","20":"garden","34":"garden","36":"hearts","37":"hearts","43":"garden","45":"garden"},
+    "join":[[7,9]],
+    "split":{
+      "22":{"parts":[{"name":"小小松树林","category":"garden","box":[766,585,868,674]}],"rest":"木制旅行路标"},
+      "42":{"parts":[{"name":"海边灯塔","box":[770,1041,1113,1196]}],"rest":"湖边雪山风景"}
+    }
+  },
+  "7": {
+    "category":"travel",
+    "drop":["002-2"],
+    "overrides":{"4":"hearts","5":"hearts","6":"hearts","9":"hearts","10":"hearts","13":"garden","14":"hearts","18":"garden","25":"hearts","26":"hearts","28":"hearts","29":"hearts","30":"garden","33":"hearts","34":"hearts","35":"tea","36":"garden","42":"hearts","44":"hearts","46":"hearts","47":"hearts","51":"garden","52":"garden","54":"hearts","55":"hearts","62":"garden","63":"hearts","65":"hearts"},
+    "split":{
+      "2":{"parts":[{"name":"佛罗伦萨旅行邮票","box":[479,0,700,170]}],"rest":"海岸阳台拍立得"},
+      "21":{"parts":[{"name":"电车车票","box":[603,359,828,513]}],"rest":"旅行相片叠放"},
+      "48":{"parts":[{"name":"伦敦大本钟明信片","box":[1036,817,1160,953]}],"rest":"花丛里的灯塔"},
+      "56":{"parts":[{"name":"小小花枝","category":"garden","box":[1171,1048,1247,1240]}],"rest":"城市复古电车"}
+    }
+  },
+  "8": {
+    "category":"hearts",
+    "overrides":{"7":"garden","14":"garden","23":"garden","25":"garden","45":"garden","60":"garden","63":"garden","64":"garden","72":"garden","84":"garden","103":"garden","113":"garden","124":"garden","128":"garden","131":"garden"},
+    "split":{
+      "27":{"parts":[{"name":"白色铃兰花枝","category":"garden","polygon":[[346,183],[491,183],[491,388],[452,351],[440,278]]}],"rest":"玫瑰礼物盒"},
+      "106":{"parts":[{"name":"粉色郁金香枝","category":"garden","box":[1065,923,1165,1140]}],"rest":"白色铃兰花枝","category":"garden"},
+      "109":{"parts":[{"name":"粉色小爱心","box":[860,1005,925,1062]},{"name":"雾蓝小爱心","box":[860,1062,925,1103]}],"rest":"奶油小爱心"}
+    }
+  },
+  "9": {
+    "category":"hearts",
+    "overrides":{"27":"garden","31":"garden","76":"hearts"},
+    "split":{
+      "51":{"parts":[{"name":"流苏花草标签","box":[496,800,600,1035]}],"rest":"郁金香天空拍立得"},
+      "66":{"parts":[{"name":"奶白蝴蝶结","box":[349,1035,525,1129]}],"rest":"丝带书本"}
+    }
+  },
+  "10": {
+    "category":"hearts",
+    "drop":["007-1","007-2"],
+    "skip":[60],
+    "overrides":{"12":"garden","15":"garden","19":"garden","20":"garden","21":"garden","22":"garden","37":"garden","38":"garden","45":"garden","48":"garden","49":"garden","50":"garden","61":"garden","68":"garden","77":"garden","85":"garden","96":"hearts","100":"garden","108":"garden"},
+    "split":{
+      "7":{"parts":[{"name":"一朵粉色小花","category":"garden","box":[982,0,1042,72]}],"rest":"软软白云"},
+      "24":{"parts":[{"name":"桃粉色小花","category":"garden","box":[244,249,325,345]}],"rest":"粉色蝴蝶结"},
+      "39":{"parts":[{"name":"粉色格纹胶带","box":[264,426,427,500]}],"rest":"花边便签"},
+      "87":{"parts":[{"name":"小蝴蝶","box":[291,835,365,888]}],"rest":"蝴蝶结花边长便签"},
+      "95":{"parts":[{"name":"奶油小爱心","box":[778,1012,812,1042]}],"rest":"粉色小爱心"}
+    }
+  }
+}

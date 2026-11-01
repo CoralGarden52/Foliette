@@ -1,0 +1,35 @@
+[
+  {
+    "id": "slow-days",
+    "name": "慢慢日常",
+    "color": "#e1e9dc",
+    "items": [
+      { "shape": "nail", "x": 0.11, "y": 0.09, "w": 32, "h": 45, "rot": -8 },
+      { "src": "/assets/stickers/elements/element-006.png", "x": 0.48, "y": 0.065, "w": 162, "h": 52, "rot": -7 },
+      { "src": "/assets/stickers/elements/element-120.png", "x": 0.9, "y": 0.9, "w": 84, "h": 125, "rot": 12 },
+      { "src": "/assets/stickers/elements/element-025.png", "x": 0.115, "y": 0.9, "w": 62, "h": 110, "rot": -9 }
+    ]
+  },
+  {
+    "id": "flower-notes",
+    "name": "花与心情",
+    "color": "#f3dfd6",
+    "items": [
+      { "src": "/assets/stickers/elements/element-116.png", "x": 0.89, "y": 0.12, "w": 70, "h": 120, "rot": 8 },
+      { "src": "/assets/stickers/elements/element-006.png", "x": 0.14, "y": 0.085, "w": 145, "h": 48, "rot": -12 },
+      { "src": "/assets/stickers/elements/element-117.png", "x": 0.88, "y": 0.89, "w": 68, "h": 106, "rot": 12 },
+      { "src": "/assets/stickers/elements/element-135.png", "x": 0.12, "y": 0.91, "w": 106, "h": 65, "rot": -8 }
+    ]
+  },
+  {
+    "id": "weekend-trip",
+    "name": "周末出走",
+    "color": "#f6ecd0",
+    "items": [
+      { "shape": "clip", "x": 0.12, "y": 0.09, "w": 42, "h": 74, "rot": -16 },
+      { "src": "/assets/stickers/elements/element-010.png", "x": 0.55, "y": 0.93, "w": 142, "h": 45, "rot": 5 },
+      { "src": "/assets/stickers/elements/element-073.png", "x": 0.9, "y": 0.1, "w": 78, "h": 100, "rot": 9 },
+      { "src": "/assets/stickers/elements/element-064.png", "x": 0.11, "y": 0.86, "w": 115, "h": 52, "rot": -12 }
+    ]
+  }
+]
